@@ -159,6 +159,49 @@
     .cat-watermark{font-size:3rem;top:-12px;}
     #stat-line{white-space:normal;width:100%;}
   }
+
+  /* modal */
+  .modal-overlay{
+    position:fixed;inset:0;background:rgba(27,36,48,0.55);
+    display:flex;align-items:center;justify-content:center;
+    padding:20px;z-index:100;
+  }
+  .modal-overlay.hidden{display:none;}
+  .modal{
+    background:var(--card);border-radius:14px;max-width:420px;width:100%;
+    box-shadow:0 20px 60px rgba(0,0,0,0.3);overflow:hidden;
+  }
+  .modal-preview{
+    aspect-ratio:1/1;max-height:300px;
+    background:
+      linear-gradient(45deg, #f2f4f6 25%, transparent 25%) -8px 0/16px 16px,
+      linear-gradient(-45deg, #f2f4f6 25%, transparent 25%) -8px 0/16px 16px,
+      linear-gradient(45deg, transparent 75%, #f2f4f6 75%) -8px 0/16px 16px,
+      linear-gradient(-45deg, transparent 75%, #f2f4f6 75%) -8px 0/16px 16px,
+      #fbfbfb;
+    display:flex;align-items:center;justify-content:center;padding:28px;position:relative;
+  }
+  .modal-preview img{max-width:100%;max-height:100%;}
+  .modal-close{
+    position:absolute;top:10px;right:10px;width:30px;height:30px;border-radius:50%;
+    border:none;background:rgba(255,255,255,0.92);color:var(--ink);font-size:1.2rem;
+    line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center;
+    box-shadow:0 1px 4px rgba(0,0,0,0.18);
+  }
+  .modal-body{padding:18px 20px 22px;}
+  .modal-body h3{font-size:1.1rem;font-weight:600;margin-bottom:8px;}
+  .modal-code{
+    font-family:'IBM Plex Mono',monospace;font-size:0.75rem;color:var(--slate);
+    background:var(--slate-soft);padding:3px 9px;border-radius:5px;display:inline-block;margin-bottom:16px;
+  }
+  .modal-url-label{font-size:0.72rem;color:var(--ink-soft);text-transform:uppercase;letter-spacing:0.04em;margin-bottom:5px;}
+  .modal-url{
+    display:block;font-family:'IBM Plex Mono',monospace;font-size:0.78rem;color:var(--slate);
+    background:var(--paper);border:1px solid var(--line);border-radius:8px;
+    padding:9px 11px;word-break:break-all;text-decoration:none;
+  }
+  .modal-url:hover{text-decoration:underline;}
+  .modal-missing-note{font-size:0.8rem;color:var(--ink-soft);margin-top:12px;}
 </style>
 </head>
 <body>
@@ -197,6 +240,22 @@
   <a href="symbols.json">symbols.json</a>
 </footer>
 
+<div class="modal-overlay hidden" id="modal-overlay">
+  <div class="modal">
+    <div class="modal-preview">
+      <button class="modal-close" id="modal-close" aria-label="Sluiten">×</button>
+      <img id="modal-img" alt="">
+    </div>
+    <div class="modal-body">
+      <h3 id="modal-name"></h3>
+      <span class="modal-code" id="modal-code"></span>
+      <div class="modal-url-label">Bestand op GitHub Pages</div>
+      <a class="modal-url" id="modal-url" target="_blank" rel="noopener"></a>
+      <div class="modal-missing-note" id="modal-missing-note">Dit bestand staat nog niet in de svg-map.</div>
+    </div>
+  </div>
+</div>
+
 <script>
 const VARIANT_ORDER = ['a','b','c'];
 const VARIANT_LABEL = {a:'met kader', b:'transparant', c:'zonder kader'};
@@ -222,6 +281,7 @@ function init(data){
   renderChips(data);
   renderSections(data);
   bindControls();
+  bindModal();
   updateStat();
 }
 
@@ -317,6 +377,12 @@ function buildCard(item){
   a.appendChild(preview);
   a.appendChild(meta);
 
+  a.addEventListener('click', e => {
+    e.preventDefault();
+    const variant = a.dataset.shown || activeVariant;
+    openModal(item, variant, a.classList.contains('missing'));
+  });
+
   loadVariantChain(item, preview, img, a);
   return a;
 }
@@ -342,7 +408,6 @@ function loadVariantChain(item, preview, img, cardEl){
       preview.appendChild(ph);
       cardEl.classList.add('missing');
       cardEl.href = '#';
-      cardEl.onclick = e => e.preventDefault();
       if(!counted){ counted = true; loadedCount++; updateStat(); }
       return;
     }
@@ -384,6 +449,7 @@ function bindControls(){
 }
 
 function refreshAllPreviews(){
+  closeModal();
   if(DATA) renderSections(DATA);
   applyFilters();
 }
@@ -404,6 +470,46 @@ function applyFilters(){
   });
   const empty = $('#no-results');
   if(empty) empty.style.display = totalVisible === 0 ? '' : 'none';
+}
+
+function openModal(item, variant, missing){
+  const path = filePath(item, variant);
+  const absoluteUrl = new URL(path, window.location.href).href;
+
+  $('#modal-name').textContent = item.name;
+  $('#modal-code').textContent = item.code;
+
+  const img = $('#modal-img');
+  const urlEl = $('#modal-url');
+  const note = $('#modal-missing-note');
+
+  if(missing){
+    img.style.display = 'none';
+    note.style.display = '';
+  } else {
+    img.style.display = '';
+    img.src = path;
+    img.alt = item.name;
+    note.style.display = 'none';
+  }
+  urlEl.textContent = absoluteUrl;
+  urlEl.href = path;
+
+  $('#modal-overlay').classList.remove('hidden');
+}
+
+function closeModal(){
+  $('#modal-overlay').classList.add('hidden');
+}
+
+function bindModal(){
+  $('#modal-close').addEventListener('click', closeModal);
+  $('#modal-overlay').addEventListener('click', e => {
+    if(e.target.id === 'modal-overlay') closeModal();
+  });
+  document.addEventListener('keydown', e => {
+    if(e.key === 'Escape') closeModal();
+  });
 }
 
 function escapeHtml(str){
