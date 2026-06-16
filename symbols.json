@@ -47,3029 +47,1631 @@
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "001",
-      "name": "Afsluitpaal of poller",
-      "note": null,
-      "files": {
-        "a": "svg/poi001_a.svg",
-        "b": "svg/poi001_b.svg",
-        "c": "svg/poi001_c.svg"
-      }
+      "name": "Afsluitpaal of poller"
     },
     {
       "code": "poi002",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "002",
-      "name": "ANWB Paddenstoel",
-      "note": null,
-      "files": {
-        "a": "svg/poi002_a.svg",
-        "b": "svg/poi002_b.svg",
-        "c": "svg/poi002_c.svg"
-      }
+      "name": "ANWB Paddenstoel"
     },
     {
       "code": "poi003",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "003",
-      "name": "Attractie",
-      "note": null,
-      "files": {
-        "a": "svg/poi003_a.svg",
-        "b": "svg/poi003_b.svg",
-        "c": "svg/poi003_c.svg"
-      }
+      "name": "Attractie"
     },
     {
       "code": "poi004",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "004",
-      "name": "Berijdbaar voor brandweer",
-      "note": "is ook gebied",
-      "files": {
-        "a": "svg/poi004_a.svg",
-        "b": "svg/poi004_b.svg",
-        "c": "svg/poi004_c.svg"
-      }
+      "name": "Berijdbaar voor brandweer"
     },
     {
       "code": "poi005",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "005",
-      "name": "Bivakplaats Defensie",
-      "note": null,
-      "files": {
-        "a": "svg/poi005_a.svg",
-        "b": "svg/poi005_b.svg",
-        "c": "svg/poi005_c.svg"
-      }
+      "name": "Bivakplaats Defensie"
     },
     {
       "code": "poi006",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "006",
-      "name": "Brugopening - algemeen",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/poi006_a.svg",
-        "b": "svg/poi006_b.svg",
-        "c": "svg/poi006_c.svg"
-      }
+      "name": "Brugopening - algemeen"
     },
     {
       "code": "poi007",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "007",
-      "name": "Brugopening - dicht",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/poi007_a.svg",
-        "b": "svg/poi007_b.svg",
-        "c": "svg/poi007_c.svg"
-      }
+      "name": "Brugopening - dicht"
     },
     {
       "code": "poi008",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "008",
-      "name": "Brugopening - gaat open",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/poi008_a.svg",
-        "b": "svg/poi008_b.svg",
-        "c": "svg/poi008_c.svg"
-      }
+      "name": "Brugopening - gaat open"
     },
     {
       "code": "poi009",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "009",
-      "name": "Brugopening - geopend",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/poi009_a.svg",
-        "b": "svg/poi009_b.svg",
-        "c": "svg/poi009_c.svg"
-      }
+      "name": "Brugopening - geopend"
     },
     {
       "code": "poi010",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "010",
-      "name": "Bungalowpark",
-      "note": null,
-      "files": {
-        "a": "svg/poi010_a.svg",
-        "b": "svg/poi010_b.svg",
-        "c": "svg/poi010_c.svg"
-      }
+      "name": "Bungalowpark"
     },
     {
       "code": "poi011",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "011",
-      "name": "Calamiteiten coördinatiecentrum",
-      "note": null,
-      "files": {
-        "a": "svg/poi011_a.svg",
-        "b": "svg/poi011_b.svg",
-        "c": "svg/poi011_c.svg"
-      }
+      "name": "Calamiteiten coördinatiecentrum"
     },
     {
       "code": "poi012",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "012",
-      "name": "Camping",
-      "note": null,
-      "files": {
-        "a": "svg/poi012_a.svg",
-        "b": "svg/poi012_b.svg",
-        "c": "svg/poi012_c.svg"
-      }
+      "name": "Camping"
     },
     {
       "code": "poi013",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "013",
-      "name": "Combinatie kazerne",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/poi013_a.svg",
-        "b": "svg/poi013_b.svg",
-        "c": "svg/poi013_c.svg"
-      }
+      "name": "Combinatie kazerne"
     },
     {
       "code": "poi014",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "014",
-      "name": "Doorrijhoogte",
-      "note": null,
-      "files": {
-        "a": "svg/poi014_a.svg",
-        "b": "svg/poi014_b.svg",
-        "c": "svg/poi014_c.svg"
-      }
+      "name": "Doorrijhoogte"
     },
     {
       "code": "poi015",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "015",
-      "name": "Ecoduct",
-      "note": null,
-      "files": {
-        "a": "svg/poi015_a.svg",
-        "b": "svg/poi015_b.svg",
-        "c": "svg/poi015_c.svg"
-      }
+      "name": "Ecoduct"
     },
     {
       "code": "poi016",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "016",
-      "name": "Feesttent",
-      "note": null,
-      "files": {
-        "a": "svg/poi016_a.svg",
-        "b": "svg/poi016_b.svg",
-        "c": "svg/poi016_c.svg"
-      }
+      "name": "Feesttent"
     },
     {
       "code": "poi017",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "017",
-      "name": "Gekazerneerde kazerne",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/poi017_a.svg",
-        "b": "svg/poi017_b.svg",
-        "c": "svg/poi017_c.svg"
-      }
+      "name": "Gekazerneerde kazerne"
     },
     {
       "code": "poi018",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "018",
-      "name": "Heli landingsplaats",
-      "note": null,
-      "files": {
-        "a": "svg/poi018_a.svg",
-        "b": "svg/poi018_b.svg",
-        "c": "svg/poi018_c.svg"
-      }
+      "name": "Heli landingsplaats"
     },
     {
       "code": "poi019",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "019",
-      "name": "Hotel",
-      "note": null,
-      "files": {
-        "a": "svg/poi019_a.svg",
-        "b": "svg/poi019_b.svg",
-        "c": "svg/poi019_c.svg"
-      }
+      "name": "Hotel"
     },
     {
       "code": "poi020",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "020",
-      "name": "Kleedkamer",
-      "note": null,
-      "files": {
-        "a": "svg/poi020_a.svg",
-        "b": "svg/poi020_b.svg",
-        "c": "svg/poi020_c.svg"
-      }
+      "name": "Kleedkamer"
     },
     {
       "code": "poi021",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "021",
-      "name": "Kraam elektra",
-      "note": null,
-      "files": {
-        "a": "svg/poi021_a.svg",
-        "b": "svg/poi021_b.svg",
-        "c": "svg/poi021_c.svg"
-      }
+      "name": "Kraam elektra"
     },
     {
       "code": "poi022",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "022",
-      "name": "Kraam gas",
-      "note": null,
-      "files": {
-        "a": "svg/poi022_a.svg",
-        "b": "svg/poi022_b.svg",
-        "c": "svg/poi022_c.svg"
-      }
+      "name": "Kraam gas"
     },
     {
       "code": "poi023",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "023",
-      "name": "Mountainbike route",
-      "note": null,
-      "files": {
-        "a": "svg/poi023_a.svg",
-        "b": "svg/poi023_b.svg",
-        "c": "svg/poi023_c.svg"
-      }
+      "name": "Mountainbike route"
     },
     {
       "code": "poi024",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "024",
-      "name": "Object vitale infrastructuur",
-      "note": null,
-      "files": {
-        "a": "svg/poi024_a.svg",
-        "b": "svg/poi024_b.svg",
-        "c": "svg/poi024_c.svg"
-      }
+      "name": "Object vitale infrastructuur"
     },
     {
       "code": "poi025",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "025",
-      "name": "Omvormer",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/poi025_a.svg",
-        "b": "svg/poi025_b.svg",
-        "c": "svg/poi025_c.svg"
-      }
+      "name": "Omvormer"
     },
     {
       "code": "poi026",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "026",
-      "name": "Oproep kazerne",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/poi026_a.svg",
-        "b": "svg/poi026_b.svg",
-        "c": "svg/poi026_c.svg"
-      }
+      "name": "Oproep kazerne"
     },
     {
       "code": "poi027",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "027",
-      "name": "Opstapplaats RPA",
-      "note": null,
-      "files": {
-        "a": "svg/poi027_a.svg",
-        "b": "svg/poi027_b.svg",
-        "c": "svg/poi027_c.svg"
-      }
+      "name": "Opstapplaats RPA"
     },
     {
       "code": "poi028",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "028",
-      "name": "Overdrachtsplaats ambulance-vervoer",
-      "note": null,
-      "files": {
-        "a": "svg/poi028_a.svg",
-        "b": "svg/poi028_b.svg",
-        "c": "svg/poi028_c.svg"
-      }
+      "name": "Overdrachtsplaats ambulance-vervoer"
     },
     {
       "code": "poi029",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "029",
-      "name": "Parkeerplaats",
-      "note": null,
-      "files": {
-        "a": "svg/poi029_a.svg",
-        "b": "svg/poi029_b.svg",
-        "c": "svg/poi029_c.svg"
-      }
+      "name": "Parkeerplaats"
     },
     {
       "code": "poi030",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "030",
-      "name": "Passeerplaats",
-      "note": null,
-      "files": {
-        "a": "svg/poi030_a.svg",
-        "b": "svg/poi030_b.svg",
-        "c": "svg/poi030_c.svg"
-      }
+      "name": "Passeerplaats"
     },
     {
       "code": "poi031",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "031",
-      "name": "Politie",
-      "note": null,
-      "files": {
-        "a": "svg/poi031_a.svg",
-        "b": "svg/poi031_b.svg",
-        "c": "svg/poi031_c.svg"
-      }
+      "name": "Politie"
     },
     {
       "code": "poi032",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "032",
-      "name": "Restaurant",
-      "note": null,
-      "files": {
-        "a": "svg/poi032_a.svg",
-        "b": "svg/poi032_b.svg",
-        "c": "svg/poi032_c.svg"
-      }
+      "name": "Restaurant"
     },
     {
       "code": "poi033",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "033",
-      "name": "Rustplaats",
-      "note": null,
-      "files": {
-        "a": "svg/poi033_a.svg",
-        "b": "svg/poi033_b.svg",
-        "c": "svg/poi033_c.svg"
-      }
+      "name": "Rustplaats"
     },
     {
       "code": "poi034",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "034",
-      "name": "Sleutelpaal of ringpaal",
-      "note": null,
-      "files": {
-        "a": "svg/poi034_a.svg",
-        "b": "svg/poi034_b.svg",
-        "c": "svg/poi034_c.svg"
-      }
+      "name": "Sleutelpaal of ringpaal"
     },
     {
       "code": "poi035",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "035",
-      "name": "Solitair bouwwerk risicogevend",
-      "note": null,
-      "files": {
-        "a": "svg/poi035_a.svg",
-        "b": "svg/poi035_b.svg",
-        "c": "svg/poi035_c.svg"
-      }
+      "name": "Solitair bouwwerk risicogevend"
     },
     {
       "code": "poi036",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "036",
-      "name": "Solitair bouwwerk, risico-ontvangend",
-      "note": null,
-      "files": {
-        "a": "svg/poi036_a.svg",
-        "b": "svg/poi036_b.svg",
-        "c": "svg/poi036_c.svg"
-      }
+      "name": "Solitair bouwwerk, risico-ontvangend"
     },
     {
       "code": "poi037",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "037",
-      "name": "Solitair bouwwerk",
-      "note": null,
-      "files": {
-        "a": "svg/poi037_a.svg",
-        "b": "svg/poi037_b.svg",
-        "c": "svg/poi037_c.svg"
-      }
+      "name": "Solitair bouwwerk"
     },
     {
       "code": "poi038",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "038",
-      "name": "Straattheater",
-      "note": null,
-      "files": {
-        "a": "svg/poi038_a.svg",
-        "b": "svg/poi038_b.svg",
-        "c": "svg/poi038_c.svg"
-      }
+      "name": "Straattheater"
     },
     {
       "code": "poi039",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "039",
-      "name": "Strandpaal, paal",
-      "note": null,
-      "files": {
-        "a": "svg/poi039_a.svg",
-        "b": "svg/poi039_b.svg",
-        "c": "svg/poi039_c.svg"
-      }
+      "name": "Strandpaal, paal"
     },
     {
       "code": "poi040",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "040",
-      "name": "Stuwrichting ventilaties",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/poi040_a.svg",
-        "b": "svg/poi040_b.svg",
-        "c": "svg/poi040_c.svg"
-      }
+      "name": "Stuwrichting ventilaties"
     },
     {
       "code": "poi041",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "041",
-      "name": "Uitzichtpunt",
-      "note": null,
-      "files": {
-        "a": "svg/poi041_a.svg",
-        "b": "svg/poi041_b.svg",
-        "c": "svg/poi041_c.svg"
-      }
+      "name": "Uitzichtpunt"
     },
     {
       "code": "poi042",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "042",
-      "name": "Verboden voor heli’s om te landen",
-      "note": null,
-      "files": {
-        "a": "svg/poi042_a.svg",
-        "b": "svg/poi042_b.svg",
-        "c": "svg/poi042_c.svg"
-      }
+      "name": "Verboden voor heli’s om te landen"
     },
     {
       "code": "poi043",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "043",
-      "name": "Vuurhaard",
-      "note": null,
-      "files": {
-        "a": "svg/poi043_a.svg",
-        "b": "svg/poi043_b.svg",
-        "c": "svg/poi043_c.svg"
-      }
+      "name": "Vuurhaard"
     },
     {
       "code": "poi044",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "044",
-      "name": "Vuurwerkafsteekplaats",
-      "note": null,
-      "files": {
-        "a": "svg/poi044_a.svg",
-        "b": "svg/poi044_b.svg",
-        "c": "svg/poi044_c.svg"
-      }
+      "name": "Vuurwerkafsteekplaats"
     },
     {
       "code": "poi045",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "045",
-      "name": "Wegafsluiting passeerbaar",
-      "note": null,
-      "files": {
-        "a": "svg/poi045_a.svg",
-        "b": "svg/poi045_b.svg",
-        "c": "svg/poi045_c.svg"
-      }
+      "name": "Wegafsluiting passeerbaar"
     },
     {
       "code": "poi046",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "046",
-      "name": "Wegafsluiting",
-      "note": null,
-      "files": {
-        "a": "svg/poi046_a.svg",
-        "b": "svg/poi046_b.svg",
-        "c": "svg/poi046_c.svg"
-      }
+      "name": "Wegafsluiting"
     },
     {
       "code": "poi047",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "047",
-      "name": "Wildrooster",
-      "note": null,
-      "files": {
-        "a": "svg/poi047_a.svg",
-        "b": "svg/poi047_b.svg",
-        "c": "svg/poi047_c.svg"
-      }
+      "name": "Wildrooster"
     },
     {
       "code": "poi048",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "048",
-      "name": "Windvaan",
-      "note": null,
-      "files": {
-        "a": "svg/poi048_a.svg",
-        "b": "svg/poi048_b.svg",
-        "c": "svg/poi048_c.svg"
-      }
+      "name": "Windvaan"
     },
     {
       "code": "poi049",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "049",
-      "name": "Zendmast",
-      "note": null,
-      "files": {
-        "a": "svg/poi049_a.svg",
-        "b": "svg/poi049_b.svg",
-        "c": "svg/poi049_c.svg"
-      }
+      "name": "Zendmast"
     },
     {
       "code": "poi050",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "050",
-      "name": "Zittafel",
-      "note": null,
-      "files": {
-        "a": "svg/poi050_a.svg",
-        "b": "svg/poi050_b.svg",
-        "c": "svg/poi050_c.svg"
-      }
+      "name": "Zittafel"
     },
     {
       "code": "poi051",
       "category": "Point of interest",
       "categoryCode": "poi",
       "number": "051",
-      "name": "Zwaartepunt",
-      "note": null,
-      "files": {
-        "a": "svg/poi051_a.svg",
-        "b": "svg/poi051_b.svg",
-        "c": "svg/poi051_c.svg"
-      }
+      "name": "Zwaartepunt"
     },
     {
       "code": "wwn001",
       "category": "Waterwinning",
       "categoryCode": "wwn",
       "number": "001",
-      "name": "Bluswaterriool",
-      "note": null,
-      "files": {
-        "a": "svg/wwn001_a.svg",
-        "b": "svg/wwn001_b.svg",
-        "c": "svg/wwn001_c.svg"
-      }
+      "name": "Bluswaterriool"
     },
     {
       "code": "wwn002",
       "category": "Waterwinning",
       "categoryCode": "wwn",
       "number": "002",
-      "name": "Bovengrondse brandkraan",
-      "note": null,
-      "files": {
-        "a": "svg/wwn002_a.svg",
-        "b": "svg/wwn002_b.svg",
-        "c": "svg/wwn002_c.svg"
-      }
+      "name": "Bovengrondse brandkraan"
     },
     {
       "code": "wwn003",
       "category": "Waterwinning",
       "categoryCode": "wwn",
       "number": "003",
-      "name": "Geboorde putten - dicht",
-      "note": null,
-      "files": {
-        "a": "svg/wwn003_a.svg",
-        "b": "svg/wwn003_b.svg",
-        "c": "svg/wwn003_c.svg"
-      }
+      "name": "Geboorde putten - dicht"
     },
     {
       "code": "wwn004",
       "category": "Waterwinning",
       "categoryCode": "wwn",
       "number": "004",
-      "name": "Geboorde putten - open",
-      "note": null,
-      "files": {
-        "a": "svg/wwn004_a.svg",
-        "b": "svg/wwn004_b.svg",
-        "c": "svg/wwn004_c.svg"
-      }
+      "name": "Geboorde putten - open"
     },
     {
       "code": "wwn005",
       "category": "Waterwinning",
       "categoryCode": "wwn",
       "number": "005",
-      "name": "Ondergrondse brandkraan",
-      "note": null,
-      "files": {
-        "a": "svg/wwn005_a.svg",
-        "b": "svg/wwn005_b.svg",
-        "c": "svg/wwn005_c.svg"
-      }
+      "name": "Ondergrondse brandkraan"
     },
     {
       "code": "wwn006",
       "category": "Waterwinning",
       "categoryCode": "wwn",
       "number": "006",
-      "name": "Open water xxx zijde",
-      "note": null,
-      "files": {
-        "a": "svg/wwn006_a.svg",
-        "b": "svg/wwn006_b.svg",
-        "c": "svg/wwn006_c.svg"
-      }
+      "name": "Open water xxx zijde"
     },
     {
       "code": "wwn007",
       "category": "Waterwinning",
       "categoryCode": "wwn",
       "number": "007",
-      "name": "Open water",
-      "note": null,
-      "files": {
-        "a": "svg/wwn007_a.svg",
-        "b": "svg/wwn007_b.svg",
-        "c": "svg/wwn007_c.svg"
-      }
+      "name": "Open water"
     },
     {
       "code": "wwn008",
       "category": "Waterwinning",
       "categoryCode": "wwn",
       "number": "008",
-      "name": "Opvoerpomp of bronpomp",
-      "note": null,
-      "files": {
-        "a": "svg/wwn008_a.svg",
-        "b": "svg/wwn008_b.svg",
-        "c": "svg/wwn008_c.svg"
-      }
+      "name": "Opvoerpomp of bronpomp"
     },
     {
       "code": "wwn009",
       "category": "Waterwinning",
       "categoryCode": "wwn",
       "number": "009",
-      "name": "Water innamepunt (WIP)",
-      "note": null,
-      "files": {
-        "a": "svg/wwn009_a.svg",
-        "b": "svg/wwn009_b.svg",
-        "c": "svg/wwn009_c.svg"
-      }
+      "name": "Water innamepunt (WIP)"
     },
     {
       "code": "wwn010",
       "category": "Waterwinning",
       "categoryCode": "wwn",
       "number": "010",
-      "name": "Waterkelder - buffer",
-      "note": null,
-      "files": {
-        "a": "svg/wwn010_a.svg",
-        "b": "svg/wwn010_b.svg",
-        "c": "svg/wwn010_c.svg"
-      }
+      "name": "Waterkelder - buffer"
     },
     {
       "code": "wwn011",
       "category": "Waterwinning",
       "categoryCode": "wwn",
       "number": "011",
-      "name": "Bluswaterriool (particulier)",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/wwn011_a.svg",
-        "b": "svg/wwn011_b.svg",
-        "c": "svg/wwn011_c.svg"
-      }
+      "name": "Bluswaterriool (particulier)"
     },
     {
       "code": "wwn012",
       "category": "Waterwinning",
       "categoryCode": "wwn",
       "number": "012",
-      "name": "Bovengrondse brandkraan (particulier)",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/wwn012_a.svg",
-        "b": "svg/wwn012_b.svg",
-        "c": "svg/wwn012_c.svg"
-      }
+      "name": "Bovengrondse brandkraan (particulier)"
     },
     {
       "code": "wwn013",
       "category": "Waterwinning",
       "categoryCode": "wwn",
       "number": "013",
-      "name": "Geboorde putten - dicht (particulier)",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/wwn013_a.svg",
-        "b": "svg/wwn013_b.svg",
-        "c": "svg/wwn013_c.svg"
-      }
+      "name": "Geboorde putten - dicht (particulier)"
     },
     {
       "code": "wwn014",
       "category": "Waterwinning",
       "categoryCode": "wwn",
       "number": "014",
-      "name": "Geboorde putten - open (particulier)",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/wwn014_a.svg",
-        "b": "svg/wwn014_b.svg",
-        "c": "svg/wwn014_c.svg"
-      }
+      "name": "Geboorde putten - open (particulier)"
     },
     {
       "code": "wwn015",
       "category": "Waterwinning",
       "categoryCode": "wwn",
       "number": "015",
-      "name": "Ondergrondse brandkraan (particulier)",
-      "note": null,
-      "files": {
-        "a": "svg/wwn015_a.svg",
-        "b": "svg/wwn015_b.svg",
-        "c": "svg/wwn015_c.svg"
-      }
+      "name": "Ondergrondse brandkraan (particulier)"
     },
     {
       "code": "wwn016",
       "category": "Waterwinning",
       "categoryCode": "wwn",
       "number": "016",
-      "name": "Open water xxx zijde (particulier)",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/wwn016_a.svg",
-        "b": "svg/wwn016_b.svg",
-        "c": "svg/wwn016_c.svg"
-      }
+      "name": "Open water xxx zijde (particulier)"
     },
     {
       "code": "wwn017",
       "category": "Waterwinning",
       "categoryCode": "wwn",
       "number": "017",
-      "name": "Open water (particulier)",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/wwn017_a.svg",
-        "b": "svg/wwn017_b.svg",
-        "c": "svg/wwn017_c.svg"
-      }
+      "name": "Open water (particulier)"
     },
     {
       "code": "wwn018",
       "category": "Waterwinning",
       "categoryCode": "wwn",
       "number": "018",
-      "name": "Opvoerpomp of bronpomp (particulier)",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/wwn018_a.svg",
-        "b": "svg/wwn018_b.svg",
-        "c": "svg/wwn018_c.svg"
-      }
+      "name": "Opvoerpomp of bronpomp (particulier)"
     },
     {
       "code": "wwn019",
       "category": "Waterwinning",
       "categoryCode": "wwn",
       "number": "019",
-      "name": "Water innamepunt (WIP) (particulier)",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/wwn019_a.svg",
-        "b": "svg/wwn019_b.svg",
-        "c": "svg/wwn019_c.svg"
-      }
+      "name": "Water innamepunt (WIP) (particulier)"
     },
     {
       "code": "wwn020",
       "category": "Waterwinning",
       "categoryCode": "wwn",
       "number": "020",
-      "name": "Waterkelder - buffer (particulier)",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/wwn020_a.svg",
-        "b": "svg/wwn020_b.svg",
-        "c": "svg/wwn020_c.svg"
-      }
+      "name": "Waterkelder - buffer (particulier)"
     },
     {
       "code": "tgn001",
       "category": "Toegang",
       "categoryCode": "tgn",
       "number": "001",
-      "name": "Brandweeringang",
-      "note": null,
-      "files": {
-        "a": "svg/tgn001_a.svg",
-        "b": "svg/tgn001_b.svg",
-        "c": "svg/tgn001_c.svg"
-      }
+      "name": "Brandweeringang"
     },
     {
       "code": "tgn002",
       "category": "Toegang",
       "categoryCode": "tgn",
       "number": "002",
-      "name": "Brandweerlift",
-      "note": null,
-      "files": {
-        "a": "svg/tgn002_a.svg",
-        "b": "svg/tgn002_b.svg",
-        "c": "svg/tgn002_c.svg"
-      }
+      "name": "Brandweerlift"
     },
     {
       "code": "tgn003",
       "category": "Toegang",
       "categoryCode": "tgn",
       "number": "003",
-      "name": "Deur L",
-      "note": null,
-      "files": {
-        "a": "svg/tgn003_a.svg",
-        "b": "svg/tgn003_b.svg",
-        "c": "svg/tgn003_c.svg"
-      }
+      "name": "Deur L"
     },
     {
       "code": "tgn004",
       "category": "Toegang",
       "categoryCode": "tgn",
       "number": "004",
-      "name": "Deur R",
-      "note": null,
-      "files": {
-        "a": "svg/tgn004_a.svg",
-        "b": "svg/tgn004_b.svg",
-        "c": "svg/tgn004_c.svg"
-      }
+      "name": "Deur R"
     },
     {
       "code": "tgn005",
       "category": "Toegang",
       "categoryCode": "tgn",
       "number": "005",
-      "name": "Generieke trap",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/tgn005_a.svg",
-        "b": "svg/tgn005_b.svg",
-        "c": "svg/tgn005_c.svg"
-      }
+      "name": "Generieke trap"
     },
     {
       "code": "tgn006",
       "category": "Toegang",
       "categoryCode": "tgn",
       "number": "006",
-      "name": "Ingang gebied terrein",
-      "note": null,
-      "files": {
-        "a": "svg/tgn006_a.svg",
-        "b": "svg/tgn006_b.svg",
-        "c": "svg/tgn006_c.svg"
-      }
+      "name": "Ingang gebied terrein"
     },
     {
       "code": "tgn007",
       "category": "Toegang",
       "categoryCode": "tgn",
       "number": "007",
-      "name": "Lift",
-      "note": null,
-      "files": {
-        "a": "svg/tgn007_a.svg",
-        "b": "svg/tgn007_b.svg",
-        "c": "svg/tgn007_c.svg"
-      }
+      "name": "Lift"
     },
     {
       "code": "tgn008",
       "category": "Toegang",
       "categoryCode": "tgn",
       "number": "008",
-      "name": "Neveningang  gebied terrein",
-      "note": null,
-      "files": {
-        "a": "svg/tgn008_a.svg",
-        "b": "svg/tgn008_b.svg",
-        "c": "svg/tgn008_c.svg"
-      }
+      "name": "Neveningang  gebied terrein"
     },
     {
       "code": "tgn009",
       "category": "Toegang",
       "categoryCode": "tgn",
       "number": "009",
-      "name": "Neveningang",
-      "note": null,
-      "files": {
-        "a": "svg/tgn009_a.svg",
-        "b": "svg/tgn009_b.svg",
-        "c": "svg/tgn009_c.svg"
-      }
+      "name": "Neveningang"
     },
     {
       "code": "tgn010",
       "category": "Toegang",
       "categoryCode": "tgn",
       "number": "010",
-      "name": "Schuifdeur dubbel",
-      "note": null,
-      "files": {
-        "a": "svg/tgn010_a.svg",
-        "b": "svg/tgn010_b.svg",
-        "c": "svg/tgn010_c.svg"
-      }
+      "name": "Schuifdeur dubbel"
     },
     {
       "code": "tgn011",
       "category": "Toegang",
       "categoryCode": "tgn",
       "number": "011",
-      "name": "Schuifdeur enkel links",
-      "note": null,
-      "files": {
-        "a": "svg/tgn011_a.svg",
-        "b": "svg/tgn011_b.svg",
-        "c": "svg/tgn011_c.svg"
-      }
+      "name": "Schuifdeur enkel links"
     },
     {
       "code": "tgn012",
       "category": "Toegang",
       "categoryCode": "tgn",
       "number": "012",
-      "name": "Schuifdeur enkel rechts",
-      "note": null,
-      "files": {
-        "a": "svg/tgn012_a.svg",
-        "b": "svg/tgn012_b.svg",
-        "c": "svg/tgn012_c.svg"
-      }
+      "name": "Schuifdeur enkel rechts"
     },
     {
       "code": "tgn013",
       "category": "Toegang",
       "categoryCode": "tgn",
       "number": "013",
-      "name": "Sleutelkluis",
-      "note": null,
-      "files": {
-        "a": "svg/tgn013_a.svg",
-        "b": "svg/tgn013_b.svg",
-        "c": "svg/tgn013_c.svg"
-      }
+      "name": "Sleutelkluis"
     },
     {
       "code": "tgn014",
       "category": "Toegang",
       "categoryCode": "tgn",
       "number": "014",
-      "name": "Sleutelkuis particulier",
-      "note": null,
-      "files": {
-        "a": "svg/tgn014_a.svg",
-        "b": "svg/tgn014_b.svg",
-        "c": "svg/tgn014_c.svg"
-      }
+      "name": "Sleutelkuis particulier"
     },
     {
       "code": "tgn015",
       "category": "Toegang",
       "categoryCode": "tgn",
       "number": "015",
-      "name": "SOS toegang",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/tgn015_a.svg",
-        "b": "svg/tgn015_b.svg",
-        "c": "svg/tgn015_c.svg"
-      }
+      "name": "SOS toegang"
     },
     {
       "code": "tgn016",
       "category": "Toegang",
       "categoryCode": "tgn",
       "number": "016",
-      "name": "Trap bordes",
-      "note": null,
-      "files": {
-        "a": "svg/tgn016_a.svg",
-        "b": "svg/tgn016_b.svg",
-        "c": "svg/tgn016_c.svg"
-      }
+      "name": "Trap bordes"
     },
     {
       "code": "tgn017",
       "category": "Toegang",
       "categoryCode": "tgn",
       "number": "017",
-      "name": "Trap recht",
-      "note": null,
-      "files": {
-        "a": "svg/tgn017_a.svg",
-        "b": "svg/tgn017_b.svg",
-        "c": "svg/tgn017_c.svg"
-      }
+      "name": "Trap recht"
     },
     {
       "code": "tgn018",
       "category": "Toegang",
       "categoryCode": "tgn",
       "number": "018",
-      "name": "Trap rond",
-      "note": null,
-      "files": {
-        "a": "svg/tgn018_a.svg",
-        "b": "svg/tgn018_b.svg",
-        "c": "svg/tgn018_c.svg"
-      }
+      "name": "Trap rond"
     },
     {
       "code": "vvz001",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "001",
-      "name": "Activering blussysteem",
-      "note": null,
-      "files": {
-        "a": "svg/vvz001_a.svg",
-        "b": "svg/vvz001_b.svg",
-        "c": "svg/vvz001_c.svg"
-      }
+      "name": "Activering blussysteem"
     },
     {
       "code": "vvz002",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "002",
-      "name": "AED",
-      "note": null,
-      "files": {
-        "a": "svg/vvz002_a.svg",
-        "b": "svg/vvz002_b.svg",
-        "c": "svg/vvz002_c.svg"
-      }
+      "name": "AED"
     },
     {
       "code": "vvz003",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "003",
-      "name": "Afsluiter CV",
-      "note": null,
-      "files": {
-        "a": "svg/vvz003_a.svg",
-        "b": "svg/vvz003_b.svg",
-        "c": "svg/vvz003_c.svg"
-      }
+      "name": "Afsluiter CV"
     },
     {
       "code": "vvz004",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "004",
-      "name": "Afsluiter diversen",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/vvz004_a.svg",
-        "b": "svg/vvz004_b.svg",
-        "c": "svg/vvz004_c.svg"
-      }
+      "name": "Afsluiter diversen"
     },
     {
       "code": "vvz005",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "005",
-      "name": "Afsluiter elektra",
-      "note": null,
-      "files": {
-        "a": "svg/vvz005_a.svg",
-        "b": "svg/vvz005_b.svg",
-        "c": "svg/vvz005_c.svg"
-      }
+      "name": "Afsluiter elektra"
     },
     {
       "code": "vvz006",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "006",
-      "name": "Afsluiter gas",
-      "note": null,
-      "files": {
-        "a": "svg/vvz006_a.svg",
-        "b": "svg/vvz006_b.svg",
-        "c": "svg/vvz006_c.svg"
-      }
+      "name": "Afsluiter gas"
     },
     {
       "code": "vvz007",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "007",
-      "name": "Afsluiter luchtbehandeling",
-      "note": null,
-      "files": {
-        "a": "svg/vvz007_a.svg",
-        "b": "svg/vvz007_b.svg",
-        "c": "svg/vvz007_c.svg"
-      }
+      "name": "Afsluiter luchtbehandeling"
     },
     {
       "code": "vvz008",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "008",
-      "name": "Afsluiter neon",
-      "note": null,
-      "files": {
-        "a": "svg/vvz008_a.svg",
-        "b": "svg/vvz008_b.svg",
-        "c": "svg/vvz008_c.svg"
-      }
+      "name": "Afsluiter neon"
     },
     {
       "code": "vvz009",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "009",
-      "name": "Afsluiter omloop",
-      "note": null,
-      "files": {
-        "a": "svg/vvz009_a.svg",
-        "b": "svg/vvz009_b.svg",
-        "c": "svg/vvz009_c.svg"
-      }
+      "name": "Afsluiter omloop"
     },
     {
       "code": "vvz010",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "010",
-      "name": "Afsluiter rwa",
-      "note": null,
-      "files": {
-        "a": "svg/vvz010_a.svg",
-        "b": "svg/vvz010_b.svg",
-        "c": "svg/vvz010_c.svg"
-      }
+      "name": "Afsluiter rwa"
     },
     {
       "code": "vvz011",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "011",
-      "name": "Afsluiter sprinkler",
-      "note": null,
-      "files": {
-        "a": "svg/vvz011_a.svg",
-        "b": "svg/vvz011_b.svg",
-        "c": "svg/vvz011_c.svg"
-      }
+      "name": "Afsluiter sprinkler"
     },
     {
       "code": "vvz012",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "012",
-      "name": "Afsluiter SVM",
-      "note": null,
-      "files": {
-        "a": "svg/vvz012_a.svg",
-        "b": "svg/vvz012_b.svg",
-        "c": "svg/vvz012_c.svg"
-      }
+      "name": "Afsluiter SVM"
     },
     {
       "code": "vvz013",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "013",
-      "name": "Afsluiter water",
-      "note": null,
-      "files": {
-        "a": "svg/vvz013_a.svg",
-        "b": "svg/vvz013_b.svg",
-        "c": "svg/vvz013_c.svg"
-      }
+      "name": "Afsluiter water"
     },
     {
       "code": "vvz014",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "014",
-      "name": "Antidote tegengif",
-      "note": null,
-      "files": {
-        "a": "svg/vvz014_a.svg",
-        "b": "svg/vvz014_b.svg",
-        "c": "svg/vvz014_c.svg"
-      }
+      "name": "Antidote tegengif"
     },
     {
       "code": "vvz015",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "015",
-      "name": "Blusmonitor S (schuim)",
-      "note": null,
-      "files": {
-        "a": "svg/vvz015_a.svg",
-        "b": "svg/vvz015_b.svg",
-        "c": "svg/vvz015_c.svg"
-      }
+      "name": "Blusmonitor S (schuim)"
     },
     {
       "code": "vvz016",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "016",
-      "name": "Blusmonitor W water (waterkanon)",
-      "note": null,
-      "files": {
-        "a": "svg/vvz016_a.svg",
-        "b": "svg/vvz016_b.svg",
-        "c": "svg/vvz016_c.svg"
-      }
+      "name": "Blusmonitor W water (waterkanon)"
     },
     {
       "code": "vvz017",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "017",
-      "name": "Blussysteem AFFF",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/vvz017_a.svg",
-        "b": "svg/vvz017_b.svg",
-        "c": "svg/vvz017_c.svg"
-      }
+      "name": "Blussysteem AFFF"
     },
     {
       "code": "vvz018",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "018",
-      "name": "Blussysteem CO2 (koolstofdioxide)",
-      "note": null,
-      "files": {
-        "a": "svg/vvz018_a.svg",
-        "b": "svg/vvz018_b.svg",
-        "c": "svg/vvz018_c.svg"
-      }
+      "name": "Blussysteem CO2 (koolstofdioxide)"
     },
     {
       "code": "vvz019",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "019",
-      "name": "Blussysteem Hi-Fog (watermist)",
-      "note": null,
-      "files": {
-        "a": "svg/vvz019_a.svg",
-        "b": "svg/vvz019_b.svg",
-        "c": "svg/vvz019_c.svg"
-      }
+      "name": "Blussysteem Hi-Fog (watermist)"
     },
     {
       "code": "vvz020",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "020",
-      "name": "Blussysteem N2 (stikstof)",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/vvz020_a.svg",
-        "b": "svg/vvz020_b.svg",
-        "c": "svg/vvz020_c.svg"
-      }
+      "name": "Blussysteem N2 (stikstof)"
     },
     {
       "code": "vvz021",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "021",
-      "name": "Blussysteem S (schuim)",
-      "note": null,
-      "files": {
-        "a": "svg/vvz021_a.svg",
-        "b": "svg/vvz021_b.svg",
-        "c": "svg/vvz021_c.svg"
-      }
+      "name": "Blussysteem S (schuim)"
     },
     {
       "code": "vvz022",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "022",
-      "name": "Blussysteem W (water)",
-      "note": null,
-      "files": {
-        "a": "svg/vvz022_a.svg",
-        "b": "svg/vvz022_b.svg",
-        "c": "svg/vvz022_c.svg"
-      }
+      "name": "Blussysteem W (water)"
     },
     {
       "code": "vvz023",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "023",
-      "name": "Brandbestrijdingsmateriaal",
-      "note": null,
-      "files": {
-        "a": "svg/vvz023_a.svg",
-        "b": "svg/vvz023_b.svg",
-        "c": "svg/vvz023_c.svg"
-      }
+      "name": "Brandbestrijdingsmateriaal"
     },
     {
       "code": "vvz024",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "024",
-      "name": "Brandbluspomp",
-      "note": null,
-      "files": {
-        "a": "svg/vvz024_a.svg",
-        "b": "svg/vvz024_b.svg",
-        "c": "svg/vvz024_c.svg"
-      }
+      "name": "Brandbluspomp"
     },
     {
       "code": "vvz025",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "025",
-      "name": "Brandblusser",
-      "note": null,
-      "files": {
-        "a": "svg/vvz025_a.svg",
-        "b": "svg/vvz025_b.svg",
-        "c": "svg/vvz025_c.svg"
-      }
+      "name": "Brandblusser"
     },
     {
       "code": "vvz026",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "026",
-      "name": "Brandmeldinstallatie (BMC)",
-      "note": null,
-      "files": {
-        "a": "svg/vvz026_a.svg",
-        "b": "svg/vvz026_b.svg",
-        "c": "svg/vvz026_c.svg"
-      }
+      "name": "Brandmeldinstallatie (BMC)"
     },
     {
       "code": "vvz027",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "027",
-      "name": "Brandmeldpaneel (BMP)",
-      "note": null,
-      "files": {
-        "a": "svg/vvz027_a.svg",
-        "b": "svg/vvz027_b.svg",
-        "c": "svg/vvz027_c.svg"
-      }
+      "name": "Brandmeldpaneel (BMP)"
     },
     {
       "code": "vvz028",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "028",
-      "name": "Brandslanghaspel",
-      "note": null,
-      "files": {
-        "a": "svg/vvz028_a.svg",
-        "b": "svg/vvz028_b.svg",
-        "c": "svg/vvz028_c.svg"
-      }
+      "name": "Brandslanghaspel"
     },
     {
       "code": "vvz029",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "029",
-      "name": "Brandweer info-kast",
-      "note": null,
-      "files": {
-        "a": "svg/vvz029_a.svg",
-        "b": "svg/vvz029_b.svg",
-        "c": "svg/vvz029_c.svg"
-      }
+      "name": "Brandweer info-kast"
     },
     {
       "code": "vvz030",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "030",
-      "name": "Buisleiding afnamepunt",
-      "note": null,
-      "files": {
-        "a": "svg/vvz030_a.svg",
-        "b": "svg/vvz030_b.svg",
-        "c": "svg/vvz030_c.svg"
-      }
+      "name": "Buisleiding afnamepunt"
     },
     {
       "code": "vvz031",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "031",
-      "name": "Buisleiding HD afnamepunt",
-      "note": null,
-      "files": {
-        "a": "svg/vvz031_a.svg",
-        "b": "svg/vvz031_b.svg",
-        "c": "svg/vvz031_c.svg"
-      }
+      "name": "Buisleiding HD afnamepunt"
     },
     {
       "code": "vvz032",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "032",
-      "name": "Buisleiding HD vulpunt",
-      "note": null,
-      "files": {
-        "a": "svg/vvz032_a.svg",
-        "b": "svg/vvz032_b.svg",
-        "c": "svg/vvz032_c.svg"
-      }
+      "name": "Buisleiding HD vulpunt"
     },
     {
       "code": "vvz033",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "033",
-      "name": "Buisleiding LD afnamepunt",
-      "note": null,
-      "files": {
-        "a": "svg/vvz033_a.svg",
-        "b": "svg/vvz033_b.svg",
-        "c": "svg/vvz033_c.svg"
-      }
+      "name": "Buisleiding LD afnamepunt"
     },
     {
       "code": "vvz034",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "034",
-      "name": "Buisleiding LD vulpunt",
-      "note": null,
-      "files": {
-        "a": "svg/vvz034_a.svg",
-        "b": "svg/vvz034_b.svg",
-        "c": "svg/vvz034_c.svg"
-      }
+      "name": "Buisleiding LD vulpunt"
     },
     {
       "code": "vvz035",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "035",
-      "name": "Buisleiding vulpunt",
-      "note": null,
-      "files": {
-        "a": "svg/vvz035_a.svg",
-        "b": "svg/vvz035_b.svg",
-        "c": "svg/vvz035_c.svg"
-      }
+      "name": "Buisleiding vulpunt"
     },
     {
       "code": "vvz036",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "036",
-      "name": "Eerste hulp",
-      "note": null,
-      "files": {
-        "a": "svg/vvz036_a.svg",
-        "b": "svg/vvz036_b.svg",
-        "c": "svg/vvz036_c.svg"
-      }
+      "name": "Eerste hulp"
     },
     {
       "code": "vvz037",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "037",
-      "name": "Flitslicht",
-      "note": null,
-      "files": {
-        "a": "svg/vvz037_a.svg",
-        "b": "svg/vvz037_b.svg",
-        "c": "svg/vvz037_c.svg"
-      }
+      "name": "Flitslicht"
     },
     {
       "code": "vvz038",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "038",
-      "name": "Gas detectiepaneel",
-      "note": null,
-      "files": {
-        "a": "svg/vvz038_a.svg",
-        "b": "svg/vvz038_b.svg",
-        "c": "svg/vvz038_c.svg"
-      }
+      "name": "Gas detectiepaneel"
     },
     {
       "code": "vvz039",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "039",
-      "name": "Generator",
-      "note": null,
-      "files": {
-        "a": "svg/vvz039_a.svg",
-        "b": "svg/vvz039_b.svg",
-        "c": "svg/vvz039_c.svg"
-      }
+      "name": "Generator"
     },
     {
       "code": "vvz040",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "040",
-      "name": "Kadeaansluiting blusboot",
-      "note": null,
-      "files": {
-        "a": "svg/vvz040_a.svg",
-        "b": "svg/vvz040_b.svg",
-        "c": "svg/vvz040_c.svg"
-      }
+      "name": "Kadeaansluiting blusboot"
     },
     {
       "code": "vvz041",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "041",
-      "name": "Meterkast elektra en gas",
-      "note": null,
-      "files": {
-        "a": "svg/vvz041_a.svg",
-        "b": "svg/vvz041_b.svg",
-        "c": "svg/vvz041_c.svg"
-      }
+      "name": "Meterkast elektra en gas"
     },
     {
       "code": "vvz042",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "042",
-      "name": "Meterkast elektra en water",
-      "note": null,
-      "files": {
-        "a": "svg/vvz042_a.svg",
-        "b": "svg/vvz042_b.svg",
-        "c": "svg/vvz042_c.svg"
-      }
+      "name": "Meterkast elektra en water"
     },
     {
       "code": "vvz043",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "043",
-      "name": "Meterkast elektra, gas en water",
-      "note": null,
-      "files": {
-        "a": "svg/vvz043_a.svg",
-        "b": "svg/vvz043_b.svg",
-        "c": "svg/vvz043_c.svg"
-      }
+      "name": "Meterkast elektra, gas en water"
     },
     {
       "code": "vvz044",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "044",
-      "name": "Meterkast gas en water",
-      "note": null,
-      "files": {
-        "a": "svg/vvz044_a.svg",
-        "b": "svg/vvz044_b.svg",
-        "c": "svg/vvz044_c.svg"
-      }
+      "name": "Meterkast gas en water"
     },
     {
       "code": "vvz045",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "045",
-      "name": "Nevenpaneel (NP)",
-      "note": null,
-      "files": {
-        "a": "svg/vvz045_a.svg",
-        "b": "svg/vvz045_b.svg",
-        "c": "svg/vvz045_c.svg"
-      }
+      "name": "Nevenpaneel (NP)"
     },
     {
       "code": "vvz046",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "046",
-      "name": "Niet bruikbaar",
-      "note": null,
-      "files": {
-        "a": "svg/vvz046_a.svg",
-        "b": "svg/vvz046_b.svg",
-        "c": "svg/vvz046_c.svg"
-      }
+      "name": "Niet bruikbaar"
     },
     {
       "code": "vvz047",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "047",
-      "name": "Nooddouche",
-      "note": null,
-      "files": {
-        "a": "svg/vvz047_a.svg",
-        "b": "svg/vvz047_b.svg",
-        "c": "svg/vvz047_c.svg"
-      }
+      "name": "Nooddouche"
     },
     {
       "code": "vvz048",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "048",
-      "name": "Noodstop",
-      "note": null,
-      "files": {
-        "a": "svg/vvz048_a.svg",
-        "b": "svg/vvz048_b.svg",
-        "c": "svg/vvz048_c.svg"
-      }
+      "name": "Noodstop"
     },
     {
       "code": "vvz049",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "049",
-      "name": "Nooduitgang",
-      "note": null,
-      "files": {
-        "a": "svg/vvz049_a.svg",
-        "b": "svg/vvz049_b.svg",
-        "c": "svg/vvz049_c.svg"
-      }
+      "name": "Nooduitgang"
     },
     {
       "code": "vvz050",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "050",
-      "name": "Ontruimingspaneel",
-      "note": null,
-      "files": {
-        "a": "svg/vvz050_a.svg",
-        "b": "svg/vvz050_b.svg",
-        "c": "svg/vvz050_c.svg"
-      }
+      "name": "Ontruimingspaneel"
     },
     {
       "code": "vvz051",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "051",
-      "name": "Oogdouche",
-      "note": null,
-      "files": {
-        "a": "svg/vvz051_a.svg",
-        "b": "svg/vvz051_b.svg",
-        "c": "svg/vvz051_c.svg"
-      }
+      "name": "Oogdouche"
     },
     {
       "code": "vvz052",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "052",
-      "name": "Overdruk ventilatie",
-      "note": null,
-      "files": {
-        "a": "svg/vvz052_a.svg",
-        "b": "svg/vvz052_b.svg",
-        "c": "svg/vvz052_c.svg"
-      }
+      "name": "Overdruk ventilatie"
     },
     {
       "code": "vvz053",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "053",
-      "name": "Rookwarmteafvoer RWA",
-      "note": null,
-      "files": {
-        "a": "svg/vvz053_a.svg",
-        "b": "svg/vvz053_b.svg",
-        "c": "svg/vvz053_c.svg"
-      }
+      "name": "Rookwarmteafvoer RWA"
     },
     {
       "code": "vvz054",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "054",
-      "name": "Schacht of kanaal",
-      "note": null,
-      "files": {
-        "a": "svg/vvz054_a.svg",
-        "b": "svg/vvz054_b.svg",
-        "c": "svg/vvz054_c.svg"
-      }
+      "name": "Schacht of kanaal"
     },
     {
       "code": "vvz055",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "055",
-      "name": "Sprinklermeldinstallatie (SMC)",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/vvz055_a.svg",
-        "b": "svg/vvz055_b.svg",
-        "c": "svg/vvz055_c.svg"
-      }
+      "name": "Sprinklermeldinstallatie (SMC)"
     },
     {
       "code": "vvz056",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "056",
-      "name": "Verzamelplaats",
-      "note": null,
-      "files": {
-        "a": "svg/vvz056_a.svg",
-        "b": "svg/vvz056_b.svg",
-        "c": "svg/vvz056_c.svg"
-      }
+      "name": "Verzamelplaats"
     },
     {
       "code": "vvz057",
       "category": "Veiligheidsvoorzieningen",
       "categoryCode": "vvz",
       "number": "057",
-      "name": "Water-reduceer (drukbegrenzer)",
-      "note": null,
-      "files": {
-        "a": "svg/vvz057_a.svg",
-        "b": "svg/vvz057_b.svg",
-        "c": "svg/vvz057_c.svg"
-      }
+      "name": "Water-reduceer (drukbegrenzer)"
     },
     {
       "code": "drg001",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "001",
-      "name": "Aanrijding",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/drg001_a.svg",
-        "b": "svg/drg001_b.svg",
-        "c": "svg/drg001_c.svg"
-      }
+      "name": "Aanrijding"
     },
     {
       "code": "drg002",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "002",
-      "name": "Accus en klein chemisch materiaal",
-      "note": null,
-      "files": {
-        "a": "svg/drg002_a.svg",
-        "b": "svg/drg002_b.svg",
-        "c": "svg/drg002_c.svg"
-      }
+      "name": "Accus en klein chemisch materiaal"
     },
     {
       "code": "drg003",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "003",
-      "name": "Agressie",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/drg003_a.svg",
-        "b": "svg/drg003_b.svg",
-        "c": "svg/drg003_c.svg"
-      }
+      "name": "Agressie"
     },
     {
       "code": "drg004",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "004",
-      "name": "Algemeen gevaar",
-      "note": null,
-      "files": {
-        "a": "svg/drg004_a.svg",
-        "b": "svg/drg004_b.svg",
-        "c": "svg/drg004_c.svg"
-      }
+      "name": "Algemeen gevaar"
     },
     {
       "code": "drg005",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "005",
-      "name": "Asbest",
-      "note": null,
-      "files": {
-        "a": "svg/drg005_a.svg",
-        "b": "svg/drg005_b.svg",
-        "c": "svg/drg005_c.svg"
-      }
+      "name": "Asbest"
     },
     {
       "code": "drg006",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "006",
-      "name": "Beknelling",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/drg006_a.svg",
-        "b": "svg/drg006_b.svg",
-        "c": "svg/drg006_c.svg"
-      }
+      "name": "Beknelling"
     },
     {
       "code": "drg007",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "007",
-      "name": "Beschadiging",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/drg007_a.svg",
-        "b": "svg/drg007_b.svg",
-        "c": "svg/drg007_c.svg"
-      }
+      "name": "Beschadiging"
     },
     {
       "code": "drg008",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "008",
-      "name": "Besmetting",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/drg008_a.svg",
-        "b": "svg/drg008_b.svg",
-        "c": "svg/drg008_c.svg"
-      }
+      "name": "Besmetting"
     },
     {
       "code": "drg009",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "009",
-      "name": "Bijtende stoffen",
-      "note": null,
-      "files": {
-        "a": "svg/drg009_a.svg",
-        "b": "svg/drg009_b.svg",
-        "c": "svg/drg009_c.svg"
-      }
+      "name": "Bijtende stoffen"
     },
     {
       "code": "drg010",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "010",
-      "name": "Bijtgevaar",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/drg010_a.svg",
-        "b": "svg/drg010_b.svg",
-        "c": "svg/drg010_c.svg"
-      }
+      "name": "Bijtgevaar"
     },
     {
       "code": "drg011",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "011",
-      "name": "Biologische agentia-infectueus",
-      "note": null,
-      "files": {
-        "a": "svg/drg011_a.svg",
-        "b": "svg/drg011_b.svg",
-        "c": "svg/drg011_c.svg"
-      }
+      "name": "Biologische agentia-infectueus"
     },
     {
       "code": "drg012",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "012",
-      "name": "Brandgevaarlijk",
-      "note": null,
-      "files": {
-        "a": "svg/drg012_a.svg",
-        "b": "svg/drg012_b.svg",
-        "c": "svg/drg012_c.svg"
-      }
+      "name": "Brandgevaarlijk"
     },
     {
       "code": "drg013",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "013",
-      "name": "Desorientatie",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/drg013_a.svg",
-        "b": "svg/drg013_b.svg",
-        "c": "svg/drg013_c.svg"
-      }
+      "name": "Desorientatie"
     },
     {
       "code": "drg014",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "014",
-      "name": "Drukgolf",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/drg014_a.svg",
-        "b": "svg/drg014_b.svg",
-        "c": "svg/drg014_c.svg"
-      }
+      "name": "Drukgolf"
     },
     {
       "code": "drg015",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "015",
-      "name": "Elektrische spanning",
-      "note": null,
-      "files": {
-        "a": "svg/drg015_a.svg",
-        "b": "svg/drg015_b.svg",
-        "c": "svg/drg015_c.svg"
-      }
+      "name": "Elektrische spanning"
     },
     {
       "code": "drg016",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "016",
-      "name": "Elektrisering",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/drg016_a.svg",
-        "b": "svg/drg016_b.svg",
-        "c": "svg/drg016_c.svg"
-      }
+      "name": "Elektrisering"
     },
     {
       "code": "drg017",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "017",
-      "name": "Exotische dieren",
-      "note": null,
-      "files": {
-        "a": "svg/drg017_a.svg",
-        "b": "svg/drg017_b.svg",
-        "c": "svg/drg017_c.svg"
-      }
+      "name": "Exotische dieren"
     },
     {
       "code": "drg018",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "018",
-      "name": "Explosie",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/drg018_a.svg",
-        "b": "svg/drg018_b.svg",
-        "c": "svg/drg018_c.svg"
-      }
+      "name": "Explosie"
     },
     {
       "code": "drg019",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "019",
-      "name": "Explosieve atmosfeer",
-      "note": null,
-      "files": {
-        "a": "svg/drg019_a.svg",
-        "b": "svg/drg019_b.svg",
-        "c": "svg/drg019_c.svg"
-      }
+      "name": "Explosieve atmosfeer"
     },
     {
       "code": "drg020",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "020",
-      "name": "Explosieve stoffen",
-      "note": null,
-      "files": {
-        "a": "svg/drg020_a.svg",
-        "b": "svg/drg020_b.svg",
-        "c": "svg/drg020_c.svg"
-      }
+      "name": "Explosieve stoffen"
     },
     {
       "code": "drg021",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "021",
-      "name": "Gastank",
-      "note": null,
-      "files": {
-        "a": "svg/drg021_a.svg",
-        "b": "svg/drg021_b.svg",
-        "c": "svg/drg021_c.svg"
-      }
+      "name": "Gastank"
     },
     {
       "code": "drg022",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "022",
-      "name": "GHS XX",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/drg022_a.svg",
-        "b": "svg/drg022_b.svg",
-        "c": "svg/drg022_c.svg"
-      }
+      "name": "GHS XX"
     },
     {
       "code": "drg023",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "023",
-      "name": "GHS01 Explosief",
-      "note": null,
-      "files": {
-        "a": "svg/drg023_a.svg",
-        "b": "svg/drg023_b.svg",
-        "c": "svg/drg023_c.svg"
-      }
+      "name": "GHS01 Explosief"
     },
     {
       "code": "drg024",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "024",
-      "name": "GHS02 Ontvlambaar",
-      "note": null,
-      "files": {
-        "a": "svg/drg024_a.svg",
-        "b": "svg/drg024_b.svg",
-        "c": "svg/drg024_c.svg"
-      }
+      "name": "GHS02 Ontvlambaar"
     },
     {
       "code": "drg025",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "025",
-      "name": "GHS03 Brand bevorderend (oxiderend)",
-      "note": null,
-      "files": {
-        "a": "svg/drg025_a.svg",
-        "b": "svg/drg025_b.svg",
-        "c": "svg/drg025_c.svg"
-      }
+      "name": "GHS03 Brand bevorderend (oxiderend)"
     },
     {
       "code": "drg026",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "026",
-      "name": "GHS04 Houder onder druk",
-      "note": null,
-      "files": {
-        "a": "svg/drg026_a.svg",
-        "b": "svg/drg026_b.svg",
-        "c": "svg/drg026_c.svg"
-      }
+      "name": "GHS04 Houder onder druk"
     },
     {
       "code": "drg027",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "027",
-      "name": "GHS05 Corrosief (Bijtend)",
-      "note": null,
-      "files": {
-        "a": "svg/drg027_a.svg",
-        "b": "svg/drg027_b.svg",
-        "c": "svg/drg027_c.svg"
-      }
+      "name": "GHS05 Corrosief (Bijtend)"
     },
     {
       "code": "drg028",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "028",
-      "name": "GHS06 Giftig",
-      "note": null,
-      "files": {
-        "a": "svg/drg028_a.svg",
-        "b": "svg/drg028_b.svg",
-        "c": "svg/drg028_c.svg"
-      }
+      "name": "GHS06 Giftig"
     },
     {
       "code": "drg029",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "029",
-      "name": "GHS07 Schadelijk Irriterend allergische huidreactie",
-      "note": null,
-      "files": {
-        "a": "svg/drg029_a.svg",
-        "b": "svg/drg029_b.svg",
-        "c": "svg/drg029_c.svg"
-      }
+      "name": "GHS07 Schadelijk Irriterend allergische huidreactie"
     },
     {
       "code": "drg030",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "030",
-      "name": "GHS08 Gezondheidsgevaar op lange termijn",
-      "note": null,
-      "files": {
-        "a": "svg/drg030_a.svg",
-        "b": "svg/drg030_b.svg",
-        "c": "svg/drg030_c.svg"
-      }
+      "name": "GHS08 Gezondheidsgevaar op lange termijn"
     },
     {
       "code": "drg031",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "031",
-      "name": "GHS09 Milieugevaarlijk",
-      "note": null,
-      "files": {
-        "a": "svg/drg031_a.svg",
-        "b": "svg/drg031_b.svg",
-        "c": "svg/drg031_c.svg"
-      }
+      "name": "GHS09 Milieugevaarlijk"
     },
     {
       "code": "drg032",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "032",
-      "name": "Giftige stoffen",
-      "note": null,
-      "files": {
-        "a": "svg/drg032_a.svg",
-        "b": "svg/drg032_b.svg",
-        "c": "svg/drg032_c.svg"
-      }
+      "name": "Giftige stoffen"
     },
     {
       "code": "drg033",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "033",
-      "name": "Glad oppervlak",
-      "note": null,
-      "files": {
-        "a": "svg/drg033_a.svg",
-        "b": "svg/drg033_b.svg",
-        "c": "svg/drg033_c.svg"
-      }
+      "name": "Glad oppervlak"
     },
     {
       "code": "drg034",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "034",
-      "name": "Hangende lasten",
-      "note": null,
-      "files": {
-        "a": "svg/drg034_a.svg",
-        "b": "svg/drg034_b.svg",
-        "c": "svg/drg034_c.svg"
-      }
+      "name": "Hangende lasten"
     },
     {
       "code": "drg035",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "035",
-      "name": "Heet oppervlak",
-      "note": null,
-      "files": {
-        "a": "svg/drg035_a.svg",
-        "b": "svg/drg035_b.svg",
-        "c": "svg/drg035_c.svg"
-      }
+      "name": "Heet oppervlak"
     },
     {
       "code": "drg036",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "036",
-      "name": "Helling",
-      "note": null,
-      "files": {
-        "a": "svg/drg036_a.svg",
-        "b": "svg/drg036_b.svg",
-        "c": "svg/drg036_c.svg"
-      }
+      "name": "Helling"
     },
     {
       "code": "drg037",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "037",
-      "name": "Honden bewaking",
-      "note": null,
-      "files": {
-        "a": "svg/drg037_a.svg",
-        "b": "svg/drg037_b.svg",
-        "c": "svg/drg037_c.svg"
-      }
+      "name": "Honden bewaking"
     },
     {
       "code": "drg038",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "038",
-      "name": "Houder onder druk",
-      "note": null,
-      "files": {
-        "a": "svg/drg038_a.svg",
-        "b": "svg/drg038_b.svg",
-        "c": "svg/drg038_c.svg"
-      }
+      "name": "Houder onder druk"
     },
     {
       "code": "drg039",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "039",
-      "name": "Implosie",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/drg039_a.svg",
-        "b": "svg/drg039_b.svg",
-        "c": "svg/drg039_c.svg"
-      }
+      "name": "Implosie"
     },
     {
       "code": "drg040",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "040",
-      "name": "Insluiting",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/drg040_a.svg",
-        "b": "svg/drg040_b.svg",
-        "c": "svg/drg040_c.svg"
-      }
+      "name": "Insluiting"
     },
     {
       "code": "drg041",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "041",
-      "name": "Instorting",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/drg041_a.svg",
-        "b": "svg/drg041_b.svg",
-        "c": "svg/drg041_c.svg"
-      }
+      "name": "Instorting"
     },
     {
       "code": "drg042",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "042",
-      "name": "Kortsluiting",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/drg042_a.svg",
-        "b": "svg/drg042_b.svg",
-        "c": "svg/drg042_c.svg"
-      }
+      "name": "Kortsluiting"
     },
     {
       "code": "drg043",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "043",
-      "name": "Laadpaal EV",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/drg043_a.svg",
-        "b": "svg/drg043_b.svg",
-        "c": "svg/drg043_c.svg"
-      }
+      "name": "Laadpaal EV"
     },
     {
       "code": "drg044",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "044",
-      "name": "Lage temperatuur-bevriezing",
-      "note": null,
-      "files": {
-        "a": "svg/drg044_a.svg",
-        "b": "svg/drg044_b.svg",
-        "c": "svg/drg044_c.svg"
-      }
+      "name": "Lage temperatuur-bevriezing"
     },
     {
       "code": "drg045",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "045",
-      "name": "Langetermijn gezondheidsschade",
-      "note": null,
-      "files": {
-        "a": "svg/drg045_a.svg",
-        "b": "svg/drg045_b.svg",
-        "c": "svg/drg045_c.svg"
-      }
+      "name": "Langetermijn gezondheidsschade"
     },
     {
       "code": "drg046",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "046",
-      "name": "Laserstralen",
-      "note": null,
-      "files": {
-        "a": "svg/drg046_a.svg",
-        "b": "svg/drg046_b.svg",
-        "c": "svg/drg046_c.svg"
-      }
+      "name": "Laserstralen"
     },
     {
       "code": "drg047",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "047",
-      "name": "Li-ion batterijen",
-      "note": null,
-      "files": {
-        "a": "svg/drg047_a.svg",
-        "b": "svg/drg047_b.svg",
-        "c": "svg/drg047_c.svg"
-      }
+      "name": "Li-ion batterijen"
     },
     {
       "code": "drg048",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "048",
-      "name": "Magnetisch veld",
-      "note": null,
-      "files": {
-        "a": "svg/drg048_a.svg",
-        "b": "svg/drg048_b.svg",
-        "c": "svg/drg048_c.svg"
-      }
+      "name": "Magnetisch veld"
     },
     {
       "code": "drg049",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "049",
-      "name": "Niet met water blussen",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/drg049_a.svg",
-        "b": "svg/drg049_b.svg",
-        "c": "svg/drg049_c.svg"
-      }
+      "name": "Niet met water blussen"
     },
     {
       "code": "drg050",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "050",
-      "name": "Niet-ioniserende straling",
-      "note": null,
-      "files": {
-        "a": "svg/drg050_a.svg",
-        "b": "svg/drg050_b.svg",
-        "c": "svg/drg050_c.svg"
-      }
+      "name": "Niet-ioniserende straling"
     },
     {
       "code": "drg051",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "051",
-      "name": "Op afstand bestuurde machines",
-      "note": null,
-      "files": {
-        "a": "svg/drg051_a.svg",
-        "b": "svg/drg051_b.svg",
-        "c": "svg/drg051_c.svg"
-      }
+      "name": "Op afstand bestuurde machines"
     },
     {
       "code": "drg052",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "052",
-      "name": "Oxiderende stoffen",
-      "note": null,
-      "files": {
-        "a": "svg/drg052_a.svg",
-        "b": "svg/drg052_b.svg",
-        "c": "svg/drg052_c.svg"
-      }
+      "name": "Oxiderende stoffen"
     },
     {
       "code": "drg053",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "053",
-      "name": "Radioactief materiaal",
-      "note": null,
-      "files": {
-        "a": "svg/drg053_a.svg",
-        "b": "svg/drg053_b.svg",
-        "c": "svg/drg053_c.svg"
-      }
+      "name": "Radioactief materiaal"
     },
     {
       "code": "drg054",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "054",
-      "name": "Schadelijk voor het milieu",
-      "note": null,
-      "files": {
-        "a": "svg/drg054_a.svg",
-        "b": "svg/drg054_b.svg",
-        "c": "svg/drg054_c.svg"
-      }
+      "name": "Schadelijk voor het milieu"
     },
     {
       "code": "drg055",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "055",
-      "name": "Straling",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/drg055_a.svg",
-        "b": "svg/drg055_b.svg",
-        "c": "svg/drg055_c.svg"
-      }
+      "name": "Straling"
     },
     {
       "code": "drg056",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "056",
-      "name": "Stroming",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/drg056_a.svg",
-        "b": "svg/drg056_b.svg",
-        "c": "svg/drg056_c.svg"
-      }
+      "name": "Stroming"
     },
     {
       "code": "drg057",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "057",
-      "name": "Valgevaar",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/drg057_a.svg",
-        "b": "svg/drg057_b.svg",
-        "c": "svg/drg057_c.svg"
-      }
+      "name": "Valgevaar"
     },
     {
       "code": "drg058",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "058",
-      "name": "Verdrinking",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/drg058_a.svg",
-        "b": "svg/drg058_b.svg",
-        "c": "svg/drg058_c.svg"
-      }
+      "name": "Verdrinking"
     },
     {
       "code": "drg059",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "059",
-      "name": "Verstikking",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/drg059_a.svg",
-        "b": "svg/drg059_b.svg",
-        "c": "svg/drg059_c.svg"
-      }
+      "name": "Verstikking"
     },
     {
       "code": "drg060",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "060",
-      "name": "Verwonding",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/drg060_a.svg",
-        "b": "svg/drg060_b.svg",
-        "c": "svg/drg060_c.svg"
-      }
+      "name": "Verwonding"
     },
     {
       "code": "drg061",
       "category": "Dreiging",
       "categoryCode": "drg",
       "number": "061",
-      "name": "Zonnepanelen",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/drg061_a.svg",
-        "b": "svg/drg061_b.svg",
-        "c": "svg/drg061_c.svg"
-      }
+      "name": "Zonnepanelen"
     },
     {
       "code": "osp001",
       "category": "Opstelplaats",
       "categoryCode": "osp",
       "number": "001",
-      "name": "Autoladder",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/osp001_a.svg",
-        "b": "svg/osp001_b.svg",
-        "c": "svg/osp001_c.svg"
-      }
+      "name": "Autoladder"
     },
     {
       "code": "osp002",
       "category": "Opstelplaats",
       "categoryCode": "osp",
       "number": "002",
-      "name": "Boot te water laat plaats",
-      "note": null,
-      "files": {
-        "a": "svg/osp002_a.svg",
-        "b": "svg/osp002_b.svg",
-        "c": "svg/osp002_c.svg"
-      }
+      "name": "Boot te water laat plaats"
     },
     {
       "code": "osp003",
       "category": "Opstelplaats",
       "categoryCode": "osp",
       "number": "003",
-      "name": "COPI",
-      "note": null,
-      "files": {
-        "a": "svg/osp003_a.svg",
-        "b": "svg/osp003_b.svg",
-        "c": "svg/osp003_c.svg"
-      }
+      "name": "COPI"
     },
     {
       "code": "osp004",
       "category": "Opstelplaats",
       "categoryCode": "osp",
       "number": "004",
-      "name": "Opstapplaats boot",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/osp004_a.svg",
-        "b": "svg/osp004_b.svg",
-        "c": "svg/osp004_c.svg"
-      }
+      "name": "Opstapplaats boot"
     },
     {
       "code": "osp005",
       "category": "Opstelplaats",
       "categoryCode": "osp",
       "number": "005",
-      "name": "Opstelplaats eerste blusvoertuig",
-      "note": null,
-      "files": {
-        "a": "svg/osp005_a.svg",
-        "b": "svg/osp005_b.svg",
-        "c": "svg/osp005_c.svg"
-      }
+      "name": "Opstelplaats eerste blusvoertuig"
     },
     {
       "code": "osp006",
       "category": "Opstelplaats",
       "categoryCode": "osp",
       "number": "006",
-      "name": "Opstelplaats overige blusvoertuigen",
-      "note": null,
-      "files": {
-        "a": "svg/osp006_a.svg",
-        "b": "svg/osp006_b.svg",
-        "c": "svg/osp006_c.svg"
-      }
+      "name": "Opstelplaats overige blusvoertuigen"
     },
     {
       "code": "osp007",
       "category": "Opstelplaats",
       "categoryCode": "osp",
       "number": "007",
-      "name": "Opstelplaats redvoertuig",
-      "note": null,
-      "files": {
-        "a": "svg/osp007_a.svg",
-        "b": "svg/osp007_b.svg",
-        "c": "svg/osp007_c.svg"
-      }
+      "name": "Opstelplaats redvoertuig"
     },
     {
       "code": "osp008",
       "category": "Opstelplaats",
       "categoryCode": "osp",
       "number": "008",
-      "name": "Opstelplaats WO",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/osp008_a.svg",
-        "b": "svg/osp008_b.svg",
-        "c": "svg/osp008_c.svg"
-      }
+      "name": "Opstelplaats WO"
     },
     {
       "code": "osp009",
       "category": "Opstelplaats",
       "categoryCode": "osp",
       "number": "009",
-      "name": "Opstelplaats WTS",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/osp009_a.svg",
-        "b": "svg/osp009_b.svg",
-        "c": "svg/osp009_c.svg"
-      }
+      "name": "Opstelplaats WTS"
     },
     {
       "code": "osp010",
       "category": "Opstelplaats",
       "categoryCode": "osp",
       "number": "010",
-      "name": "Schuimblusvoertuig",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/osp010_a.svg",
-        "b": "svg/osp010_b.svg",
-        "c": "svg/osp010_c.svg"
-      }
+      "name": "Schuimblusvoertuig"
     },
     {
       "code": "osp011",
       "category": "Opstelplaats",
       "categoryCode": "osp",
       "number": "011",
-      "name": "UGS",
-      "note": null,
-      "files": {
-        "a": "svg/osp011_a.svg",
-        "b": "svg/osp011_b.svg",
-        "c": "svg/osp011_c.svg"
-      }
+      "name": "UGS"
     },
     {
       "code": "gev001",
       "category": "Gevaarlijke stof",
       "categoryCode": "gev",
       "number": "001",
-      "name": "ADR Kemler -bord",
-      "note": null,
-      "files": {
-        "a": "svg/gev001_a.svg",
-        "b": "svg/gev001_b.svg",
-        "c": "svg/gev001_c.svg"
-      }
+      "name": "ADR Kemler -bord"
     },
     {
       "code": "ter001",
       "category": "Terrein",
       "categoryCode": "ter",
       "number": "001",
-      "name": "Evenement A",
-      "note": null,
-      "files": {
-        "a": "svg/ter001_a.svg",
-        "b": "svg/ter001_b.svg",
-        "c": "svg/ter001_c.svg"
-      }
+      "name": "Evenement A"
     },
     {
       "code": "ter002",
       "category": "Terrein",
       "categoryCode": "ter",
       "number": "002",
-      "name": "Evenement B",
-      "note": null,
-      "files": {
-        "a": "svg/ter002_a.svg",
-        "b": "svg/ter002_b.svg",
-        "c": "svg/ter002_c.svg"
-      }
+      "name": "Evenement B"
     },
     {
       "code": "ter003",
       "category": "Terrein",
       "categoryCode": "ter",
       "number": "003",
-      "name": "Evenement C",
-      "note": null,
-      "files": {
-        "a": "svg/ter003_a.svg",
-        "b": "svg/ter003_b.svg",
-        "c": "svg/ter003_c.svg"
-      }
+      "name": "Evenement C"
     },
     {
       "code": "ter004",
       "category": "Terrein",
       "categoryCode": "ter",
       "number": "004",
-      "name": "Gebouw",
-      "note": null,
-      "files": {
-        "a": "svg/ter004_a.svg",
-        "b": "svg/ter004_b.svg",
-        "c": "svg/ter004_c.svg"
-      }
+      "name": "Gebouw"
     },
     {
       "code": "ter005",
       "category": "Terrein",
       "categoryCode": "ter",
       "number": "005",
-      "name": "Infrastructuur",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/ter005_a.svg",
-        "b": "svg/ter005_b.svg",
-        "c": "svg/ter005_c.svg"
-      }
+      "name": "Infrastructuur"
     },
     {
       "code": "ter006",
       "category": "Terrein",
       "categoryCode": "ter",
       "number": "006",
-      "name": "Natuur",
-      "note": null,
-      "files": {
-        "a": "svg/ter006_a.svg",
-        "b": "svg/ter006_b.svg",
-        "c": "svg/ter006_c.svg"
-      }
+      "name": "Natuur"
     },
     {
       "code": "ter007",
       "category": "Terrein",
       "categoryCode": "ter",
       "number": "007",
-      "name": "Water",
-      "note": null,
-      "files": {
-        "a": "svg/ter007_a.svg",
-        "b": "svg/ter007_b.svg",
-        "c": "svg/ter007_c.svg"
-      }
+      "name": "Water"
     },
     {
       "code": "bbh001",
       "category": "Bereikbaarheid",
       "categoryCode": "bbh",
       "number": "001",
-      "name": "DMO",
-      "note": null,
-      "files": {
-        "a": "svg/bbh001_a.svg",
-        "b": "svg/bbh001_b.svg",
-        "c": "svg/bbh001_c.svg"
-      }
+      "name": "DMO"
     },
     {
       "code": "bbh002",
       "category": "Bereikbaarheid",
       "categoryCode": "bbh",
       "number": "002",
-      "name": "Slagboom",
-      "note": null,
-      "files": {
-        "a": "svg/bbh002_a.svg",
-        "b": "svg/bbh002_b.svg",
-        "c": "svg/bbh002_c.svg"
-      }
+      "name": "Slagboom"
     },
     {
       "code": "bbh003",
       "category": "Bereikbaarheid",
       "categoryCode": "bbh",
       "number": "003",
-      "name": "TMO",
-      "note": null,
-      "files": {
-        "a": "svg/bbh003_a.svg",
-        "b": "svg/bbh003_b.svg",
-        "c": "svg/bbh003_c.svg"
-      }
+      "name": "TMO"
     },
     {
       "code": "bbh004",
       "category": "Bereikbaarheid",
       "categoryCode": "bbh",
       "number": "004",
-      "name": "Wegwerkzaamheden A",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/bbh004_a.svg",
-        "b": "svg/bbh004_b.svg",
-        "c": "svg/bbh004_c.svg"
-      }
+      "name": "Wegwerkzaamheden A"
     },
     {
       "code": "bbh005",
       "category": "Bereikbaarheid",
       "categoryCode": "bbh",
       "number": "005",
-      "name": "Wegwerkzaamheden B",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/bbh005_a.svg",
-        "b": "svg/bbh005_b.svg",
-        "c": "svg/bbh005_c.svg"
-      }
+      "name": "Wegwerkzaamheden B"
     },
     {
       "code": "bbh006",
       "category": "Bereikbaarheid",
       "categoryCode": "bbh",
       "number": "006",
-      "name": "Wegwerkzaamheden C",
-      "note": "Nieuw",
-      "files": {
-        "a": "svg/bbh006_a.svg",
-        "b": "svg/bbh006_b.svg",
-        "c": "svg/bbh006_c.svg"
-      }
+      "name": "Wegwerkzaamheden C"
     },
     {
       "code": "cdb001",
       "category": "Constructie en dakbedekking",
       "categoryCode": "cdb",
       "number": "001",
-      "name": "Rietenkap",
-      "note": null,
-      "files": {
-        "a": "svg/cdb001_a.svg",
-        "b": "svg/cdb001_b.svg",
-        "c": "svg/cdb001_c.svg"
-      }
+      "name": "Rietenkap"
     }
   ]
 }
