@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Symbolencatalogus — Coderingen Symbolen</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#1b2430;
+    --ink-soft:#5b6878;
+    --paper:#eef1f3;
+    --card:#ffffff;
+    --line:#dadfe4;
+    --accent:#c8392e;
+    --accent-soft:#fbe7e4;
+    --slate:#45566b;
+    --slate-soft:#e7ebf0;
+    --good:#2f8f5b;
+    --radius:10px;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:var(--paper);
+    color:var(--ink);
+    font-family:'Inter',system-ui,sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  h1,h2,h3{font-family:'Space Grotesk',sans-serif;margin:0;}
+  code,.mono{font-family:'IBM Plex Mono',monospace;}
+  a{color:inherit;}
+
+  /* header */
+  header.top{
+    padding:28px 28px 22px;
+    border-bottom:1px solid var(--line);
+    background:var(--card);
+  }
+  .top-inner{max-width:1200px;margin:0 auto;display:flex;flex-wrap:wrap;align-items:baseline;gap:14px;justify-content:space-between;}
+  header.top h1{font-size:1.6rem;font-weight:700;letter-spacing:-0.01em;}
+  header.top .sub{color:var(--ink-soft);font-size:0.92rem;margin-top:4px;}
+  #stat-line{font-size:0.85rem;color:var(--ink-soft);white-space:nowrap;}
+  #stat-line strong{color:var(--ink);}
+  #stat-line .good{color:var(--good);font-weight:600;}
+
+  /* controls */
+  .controls{
+    position:sticky;top:0;z-index:20;
+    background:var(--card);
+    border-bottom:1px solid var(--line);
+    padding:14px 28px;
+  }
+  .controls-inner{max-width:1200px;margin:0 auto;display:flex;flex-wrap:wrap;gap:12px;align-items:center;}
+  #search{
+    flex:1 1 220px;
+    padding:9px 13px;
+    border:1px solid var(--line);
+    border-radius:8px;
+    font-size:0.95rem;
+    font-family:inherit;
+    background:var(--paper);
+    color:var(--ink);
+  }
+  #search:focus{outline:2px solid var(--slate);outline-offset:1px;}
+
+  .variant-switch{display:flex;border:1px solid var(--line);border-radius:8px;overflow:hidden;flex-shrink:0;}
+  .variant-switch button{
+    border:none;background:var(--paper);color:var(--ink-soft);
+    padding:8px 12px;font-size:0.85rem;font-family:inherit;cursor:pointer;
+    border-right:1px solid var(--line);
+  }
+  .variant-switch button:last-child{border-right:none;}
+  .variant-switch button.active{background:var(--slate);color:#fff;}
+
+  .chips{display:flex;flex-wrap:wrap;gap:6px;width:100%;}
+  .chip{
+    border:1px solid var(--line);background:var(--paper);color:var(--ink-soft);
+    padding:6px 11px;border-radius:999px;font-size:0.8rem;cursor:pointer;
+    display:flex;align-items:center;gap:6px;font-family:inherit;
+  }
+  .chip .n{font-family:'IBM Plex Mono',monospace;color:var(--ink-soft);opacity:0.75;font-size:0.72rem;}
+  .chip.active{background:var(--accent-soft);border-color:var(--accent);color:var(--accent);}
+  .chip.active .n{color:var(--accent);opacity:0.8;}
+  .chip-all{font-weight:600;}
+
+  /* sections */
+  main{max-width:1200px;margin:0 auto;padding:30px 28px 70px;}
+  .category-section{margin-bottom:46px;position:relative;}
+  .category-section.hidden{display:none;}
+  .cat-head{
+    display:flex;align-items:baseline;gap:14px;margin-bottom:16px;
+    border-bottom:1px solid var(--line);padding-bottom:10px;
+    position:relative;overflow:hidden;
+  }
+  .cat-watermark{
+    position:absolute;right:0;top:-22px;font-family:'Space Grotesk',sans-serif;
+    font-size:4.4rem;font-weight:700;color:var(--ink);opacity:0.05;
+    letter-spacing:0.02em;pointer-events:none;text-transform:lowercase;
+  }
+  .cat-head h2{font-size:1.15rem;font-weight:600;}
+  .cat-head .count{color:var(--ink-soft);font-size:0.85rem;}
+  .cat-head .code-pill{
+    font-family:'IBM Plex Mono',monospace;font-size:0.72rem;color:var(--slate);
+    background:var(--slate-soft);padding:3px 8px;border-radius:5px;
+  }
+
+  .grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(168px,1fr));
+    gap:14px;
+  }
+  .card{
+    background:var(--card);
+    border:1px solid var(--line);
+    border-radius:var(--radius);
+    overflow:hidden;
+    display:flex;flex-direction:column;
+    text-decoration:none;
+    transition:border-color 0.15s, box-shadow 0.15s;
+  }
+  .card:hover{border-color:var(--slate);box-shadow:0 2px 10px rgba(27,36,48,0.08);}
+  .card.missing{opacity:0.55;}
+  .card .preview{
+    aspect-ratio:1/1;
+    background:
+      linear-gradient(45deg, #f2f4f6 25%, transparent 25%) -8px 0/16px 16px,
+      linear-gradient(-45deg, #f2f4f6 25%, transparent 25%) -8px 0/16px 16px,
+      linear-gradient(45deg, transparent 75%, #f2f4f6 75%) -8px 0/16px 16px,
+      linear-gradient(-45deg, transparent 75%, #f2f4f6 75%) -8px 0/16px 16px,
+      #fbfbfb;
+    display:flex;align-items:center;justify-content:center;
+    padding:14px;position:relative;
+  }
+  .card .preview img{max-width:100%;max-height:100%;}
+  .card .preview .ph{
+    font-family:'IBM Plex Mono',monospace;font-size:0.68rem;color:var(--ink-soft);
+    text-align:center;line-height:1.5;
+  }
+  .badge-new{
+    position:absolute;top:6px;left:6px;background:var(--accent);color:#fff;
+    font-size:0.62rem;font-weight:600;padding:2px 6px;border-radius:4px;letter-spacing:0.02em;
+  }
+  .card .meta{padding:9px 11px 11px;border-top:1px solid var(--line);}
+  .card .name{font-size:0.83rem;font-weight:500;line-height:1.3;
+    display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;min-height:2.6em;}
+  .card .code{font-family:'IBM Plex Mono',monospace;font-size:0.72rem;color:var(--ink-soft);margin-top:5px;display:block;}
+
+  .empty-state{
+    text-align:center;padding:60px 20px;color:var(--ink-soft);
+  }
+
+  footer{
+    border-top:1px solid var(--line);padding:22px 28px 36px;
+    color:var(--ink-soft);font-size:0.82rem;text-align:center;
+  }
+  footer a{color:var(--slate);text-decoration:underline;}
+
+  @media (max-width:600px){
+    header.top, .controls, main{padding-left:16px;padding-right:16px;}
+    .cat-watermark{font-size:3rem;top:-12px;}
+    #stat-line{white-space:normal;width:100%;}
+  }
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="top-inner">
+    <div>
+      <h1>Symbolencatalogus</h1>
+      <div class="sub">Landelijke coderingen symbolen — overzicht van alle symbolen, categorieën en bestandsnamen</div>
+    </div>
+    <div id="stat-line">laden…</div>
+  </div>
+</header>
+
+<div class="controls">
+  <div class="controls-inner">
+    <input id="search" type="text" placeholder="Zoek op naam of code, bijv. ‘brandkraan’ of ‘poi003’…">
+    <div class="variant-switch" id="variant-switch">
+      <button data-v="a" class="active">Met kader</button>
+      <button data-v="b">Transparant</button>
+      <button data-v="c">Zonder kader</button>
+    </div>
+  </div>
+  <div class="controls-inner" style="margin-top:10px;">
+    <div class="chips" id="chips"></div>
+  </div>
+</div>
+
+<main id="main">
+  <div class="empty-state">Symbolen laden…</div>
+</main>
+
+<footer>
+  Gegenereerd uit <code>Codering_Symbolen-ingevuld-landelijk.xlsx</code> · bestanden uit <code>/svg</code> ·
+  ontbrekende previews worden grijs weergegeven totdat het bijbehorende .svg-bestand wordt toegevoegd ·
+  <a href="symbols.json">symbols.json</a>
+</footer>
+
+<script>
+const VARIANT_ORDER = ['a','b','c'];
+const VARIANT_LABEL = {a:'met kader', b:'transparant', c:'zonder kader'};
+let DATA = null;
+let activeVariant = 'a';
+let activeCategories = new Set();
+let searchTerm = '';
+let loadedCount = 0, totalCount = 0, statTimer = null;
+
+function $(s, el=document){return el.querySelector(s);}
+function $all(s, el=document){return Array.from(el.querySelectorAll(s));}
+
+fetch('symbols.json')
+  .then(r => r.json())
+  .then(data => { DATA = data; init(data); })
+  .catch(err => {
+    $('#main').innerHTML = '<div class="empty-state">Kon symbols.json niet laden: '+err+'</div>';
+  });
+
+function init(data){
+  totalCount = data.symbols.length;
+  data.categories.forEach(c => activeCategories.add(c.code));
+  renderChips(data);
+  renderSections(data);
+  bindControls();
+  updateStat();
+}
+
+function renderChips(data){
+  const counts = {};
+  data.symbols.forEach(s => counts[s.categoryCode] = (counts[s.categoryCode]||0)+1);
+  const chips = $('#chips');
+  chips.innerHTML = '';
+  const allChip = document.createElement('button');
+  allChip.className = 'chip chip-all active';
+  allChip.textContent = 'Alle categorieën';
+  allChip.onclick = () => {
+    activeCategories = new Set(data.categories.map(c=>c.code));
+    $all('.chip').forEach((c,i) => { if(i>0) c.classList.add('active'); });
+    allChip.classList.add('active');
+    applyFilters();
+  };
+  chips.appendChild(allChip);
+
+  data.categories.forEach(cat => {
+    const chip = document.createElement('button');
+    chip.className = 'chip active';
+    chip.dataset.code = cat.code;
+    chip.innerHTML = cat.name + ' <span class="n">'+cat.code+' · '+(counts[cat.code]||0)+'</span>';
+    chip.onclick = () => {
+      if(activeCategories.has(cat.code)){
+        activeCategories.delete(cat.code);
+        chip.classList.remove('active');
+      } else {
+        activeCategories.add(cat.code);
+        chip.classList.add('active');
+      }
+      allChip.classList.toggle('active', activeCategories.size === data.categories.length);
+      applyFilters();
+    };
+    chips.appendChild(chip);
+  });
+}
+
+function renderSections(data){
+  const main = $('#main');
+  main.innerHTML = '';
+  data.categories.forEach(cat => {
+    const items = data.symbols.filter(s => s.categoryCode === cat.code);
+    const section = document.createElement('section');
+    section.className = 'category-section';
+    section.dataset.code = cat.code;
+
+    const head = document.createElement('div');
+    head.className = 'cat-head';
+    head.innerHTML =
+      '<span class="cat-watermark">'+cat.code+'</span>' +
+      '<h2>'+cat.name+'</h2>' +
+      '<span class="code-pill">'+cat.code+'</span>' +
+      '<span class="count">'+items.length+' symbolen</span>';
+    section.appendChild(head);
+
+    const grid = document.createElement('div');
+    grid.className = 'grid';
+    items.forEach(item => grid.appendChild(buildCard(item)));
+    section.appendChild(grid);
+
+    main.appendChild(section);
+  });
+  const empty = document.createElement('div');
+  empty.id = 'no-results';
+  empty.className = 'empty-state';
+  empty.style.display = 'none';
+  empty.textContent = 'Geen symbolen gevonden. Pas de zoekterm of categoriefilters aan.';
+  main.appendChild(empty);
+}
+
+function buildCard(item){
+  const a = document.createElement('a');
+  a.className = 'card';
+  a.target = '_blank';
+  a.rel = 'noopener';
+  a.dataset.search = (item.name+' '+item.code+' '+item.category+' '+(item.note||'')).toLowerCase();
+  a.dataset.cat = item.categoryCode;
+
+  const preview = document.createElement('div');
+  preview.className = 'preview';
+
+  if(item.note === 'Nieuw'){
+    const badge = document.createElement('span');
+    badge.className = 'badge-new';
+    badge.textContent = 'NIEUW';
+    preview.appendChild(badge);
+  }
+
+  const img = document.createElement('img');
+  img.alt = item.name;
+  img.loading = 'lazy';
+  preview.appendChild(img);
+
+  const meta = document.createElement('div');
+  meta.className = 'meta';
+  meta.innerHTML = '<span class="name">'+escapeHtml(item.name)+'</span><span class="code">'+item.code+'</span>';
+
+  a.appendChild(preview);
+  a.appendChild(meta);
+
+  loadVariantChain(item, preview, img, a);
+  return a;
+}
+
+function orderedVariants(){
+  return [activeVariant, ...VARIANT_ORDER.filter(v => v !== activeVariant)];
+}
+
+function loadVariantChain(item, preview, img, cardEl){
+  const chain = orderedVariants();
+  let i = 0;
+  let counted = false;
+  function tryNext(){
+    if(i >= chain.length){
+      img.remove();
+      const ph = document.createElement('div');
+      ph.className = 'ph';
+      ph.textContent = 'nog geen\npreview';
+      preview.appendChild(ph);
+      cardEl.classList.add('missing');
+      cardEl.href = '#';
+      cardEl.onclick = e => e.preventDefault();
+      if(!counted){ counted = true; loadedCount++; updateStat(); }
+      return;
+    }
+    const v = chain[i];
+    img.onload = () => {
+      cardEl.href = item.files[v];
+      cardEl.dataset.shown = v;
+      if(!counted){ counted = true; loadedCount++; updateStat(); }
+    };
+    img.onerror = () => { i++; tryNext(); };
+    img.src = item.files[v];
+  }
+  tryNext();
+}
+
+function updateStat(){
+  clearTimeout(statTimer);
+  statTimer = setTimeout(() => {
+    const pct = totalCount ? Math.round((loadedCount/totalCount)*100) : 0;
+    $('#stat-line').innerHTML =
+      '<strong>'+totalCount+'</strong> symbolen · '+
+      '<strong>'+DATA.categories.length+'</strong> categorieën · '+
+      '<span class="good">'+loadedCount+'</span> previews gecontroleerd ('+pct+'%)';
+  }, 80);
+}
+
+function bindControls(){
+  $('#search').addEventListener('input', e => {
+    searchTerm = e.target.value.trim().toLowerCase();
+    applyFilters();
+  });
+  $all('#variant-switch button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      activeVariant = btn.dataset.v;
+      $all('#variant-switch button').forEach(b => b.classList.toggle('active', b===btn));
+      refreshAllPreviews();
+    });
+  });
+}
+
+function refreshAllPreviews(){
+  if(DATA) renderSections(DATA);
+  applyFilters();
+}
+
+function applyFilters(){
+  let totalVisible = 0;
+  $all('.category-section').forEach(section => {
+    let visibleInSection = 0;
+    $all('.card', section).forEach(card => {
+      const matchesCat = activeCategories.has(card.dataset.cat);
+      const matchesSearch = !searchTerm || card.dataset.search.includes(searchTerm);
+      const show = matchesCat && matchesSearch;
+      card.style.display = show ? '' : 'none';
+      if(show) visibleInSection++;
+    });
+    section.classList.toggle('hidden', visibleInSection === 0);
+    totalVisible += visibleInSection;
+  });
+  const empty = $('#no-results');
+  if(empty) empty.style.display = totalVisible === 0 ? '' : 'none';
+}
+
+function escapeHtml(str){
+  const d = document.createElement('div');
+  d.textContent = str;
+  return d.innerHTML;
+}
+</script>
+</body>
+</html>
