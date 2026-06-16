@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 62 62">
+  <!-- Generator: Adobe Illustrator 29.3.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 151)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+
+      .st1 {
+        fill: none;
+      }
+
+      .st2 {
+        fill: red;
+      }
+
+      .st3 {
+        clip-path: url(#clippath-1);
+      }
+
+      .st4 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <polygon class="st1" points="31 62 0 38.5 10.7 0 51.3 0 62 38.5 31 62"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <polygon class="st1" points="31 62 0 38.5 10.7 0 51.3 0 62 38.5 31 62"/>
+    </clipPath>
+  </defs>
+  <g class="st4">
+    <g>
+      <g>
+        <path d="M71.5,1.5h-21v-11h21V1.5ZM51.5.5h19v-9h-19V.5Z"/>
+        <path d="M51.5,1.5h-21v-11h21V1.5ZM31.5.5h19v-9h-19V.5Z"/>
+        <path d="M31.5,1.5H10.5v-11h21V1.5ZM11.5.5h19v-9H11.5V.5Z"/>
+        <path d="M11.5,1.5H-9.5v-11H11.5V1.5ZM-8.5.5H10.5v-9H-8.5V.5Z"/>
+      </g>
+      <g>
+        <path d="M21.5,11.5H.5V.5h21v11ZM1.5,10.5h19V1.5H1.5v9Z"/>
+        <path d="M41.5,11.5h-21V.5h21v11ZM21.5,10.5h19V1.5h-19v9Z"/>
+        <path d="M61.5,11.5h-21V.5h21v11ZM41.5,10.5h19V1.5h-19v9Z"/>
+        <path d="M71.5,11.5h-11V.5h11v11ZM61.5,10.5h9V1.5h-9v9Z"/>
+        <path d="M1.5,11.5h-11V.5H1.5v11ZM-8.5,10.5H.5V1.5h-9v9Z"/>
+      </g>
+      <g>
+        <path d="M71.5,21.5h-21v-11h21v11ZM51.5,20.5h19v-9h-19v9Z"/>
+        <path d="M51.5,21.5h-21v-11h21v11ZM31.5,20.5h19v-9h-19v9Z"/>
+        <path d="M31.5,21.5H10.5v-11h21v11ZM11.5,20.5h19v-9H11.5v9Z"/>
+        <path d="M11.5,21.5H-9.5v-11H11.5v11ZM-8.5,20.5H10.5v-9H-8.5v9Z"/>
+      </g>
+      <g>
+        <path d="M21.5,31.5H.5v-11h21v11ZM1.5,30.5h19v-9H1.5v9Z"/>
+        <path d="M41.5,31.5h-21v-11h21v11ZM21.5,30.5h19v-9h-19v9Z"/>
+        <path d="M61.5,31.5h-21v-11h21v11ZM41.5,30.5h19v-9h-19v9Z"/>
+        <path d="M71.5,31.5h-11v-11h11v11ZM61.5,30.5h9v-9h-9v9Z"/>
+        <path d="M1.5,31.5h-11v-11H1.5v11ZM-8.5,30.5H.5v-9h-9v9Z"/>
+      </g>
+      <g>
+        <path d="M71.5,41.5h-21v-11h21v11ZM51.5,40.5h19v-9h-19v9Z"/>
+        <path d="M51.5,41.5h-21v-11h21v11ZM31.5,40.5h19v-9h-19v9Z"/>
+        <path d="M31.5,41.5H10.5v-11h21v11ZM11.5,40.5h19v-9H11.5v9Z"/>
+        <path d="M11.5,41.5H-9.5v-11H11.5v11ZM-8.5,40.5H10.5v-9H-8.5v9Z"/>
+      </g>
+      <g>
+        <path d="M21.5,51.5H.5v-11h21v11ZM1.5,50.5h19v-9H1.5v9Z"/>
+        <path d="M41.5,51.5h-21v-11h21v11ZM21.5,50.5h19v-9h-19v9Z"/>
+        <path d="M61.5,51.5h-21v-11h21v11ZM41.5,50.5h19v-9h-19v9Z"/>
+        <path d="M71.5,51.5h-11v-11h11v11ZM61.5,50.5h9v-9h-9v9Z"/>
+        <path d="M1.5,51.5h-11v-11H1.5v11ZM-8.5,50.5H.5v-9h-9v9Z"/>
+      </g>
+      <g>
+        <path d="M71.5,61.5h-21v-11h21v11ZM51.5,60.5h19v-9h-19v9Z"/>
+        <path d="M51.5,61.5h-21v-11h21v11ZM31.5,60.5h19v-9h-19v9Z"/>
+        <path d="M31.5,61.5H10.5v-11h21v11ZM11.5,60.5h19v-9H11.5v9Z"/>
+        <path d="M11.5,61.5H-9.5v-11H11.5v11ZM-8.5,60.5H10.5v-9H-8.5v9Z"/>
+      </g>
+      <g>
+        <path d="M21.5,71.5H.5v-11h21v11ZM1.5,70.5h19v-9H1.5v9Z"/>
+        <path d="M41.5,71.5h-21v-11h21v11ZM21.5,70.5h19v-9h-19v9Z"/>
+        <path d="M61.5,71.5h-21v-11h21v11ZM41.5,70.5h19v-9h-19v9Z"/>
+        <path d="M71.5,71.5h-11v-11h11v11ZM61.5,70.5h9v-9h-9v9Z"/>
+        <path d="M1.5,71.5h-11v-11H1.5v11ZM-8.5,70.5H.5v-9h-9v9Z"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <polygon class="st0" points="34.4 43.4 31 43.4 25.3 42.4 22.2 34.8 30.6 23.4 34.6 24.3 38.9 30.4 41.8 36.1 37.8 42.5 34.4 43.4"/>
+    <path class="st2" d="M31,7.4c-2.5,4.8.4,7.4-2.7,14.3-1.8-1.4-.8-6.6-4.1-6.7.4,1.7.1,2.2,0,2.8-.4,2.4-1.1,4.3.4,7.3-2.3-1.1-2.5-3.2-4.4-4.6.4,2.2-.5,6.9,2.1,11.3-2.3-.3-3.2-1.1-5.6-3.6,2.6,14,4.7,14.4,14.4,15.3-.8-.1-5.8-1-7.5-6.7,0-1.4-.1,1.3,4.7,1.4-3-4.9-2.2-3.9-1.9-6.7,1.4,1.8.3,2.1,3.7,3.5-1.1-3.6,1.8-6,1.1-10.2.8,1.8,3.6,1.5,3.4,10.2,2.3-2.7,2.5-.8,3.6-3.6.1,1.5.8,3.5-2.3,6.9.8.3,2.2.4,4.3-1.1-2.1,2.5-.1,2.5-5.5,6.4,6.7.1,11.1-4.2,11-13.6-.3.8-.4,2.5-4,2.9,2.2-2.2,3.4-6.9,1.6-10.5-.7.6-1.6,3.4-4,4.1,1.1-2,.8-4.5.8-4.5,0,0,.4-3.5-1.6-6.3-.5,4.2-.5,6.4-3.2,7,.4-2.4.5-3.6-.8-6.4-1.4-2.9-3-5.9-3.3-8.7Z"/>
+  </g>
+  <g class="st3">
+    <g>
+      <g>
+        <rect class="st1" x="51" y="-9" width="20" height="10"/>
+        <rect class="st1" x="31" y="-9" width="20" height="10"/>
+        <rect class="st1" x="11" y="-9" width="20" height="10"/>
+        <rect class="st1" x="-9" y="-9" width="20" height="10"/>
+      </g>
+      <g>
+        <rect class="st1" x="1" y="1" width="20" height="10"/>
+        <rect class="st1" x="21" y="1" width="20" height="10"/>
+        <rect class="st1" x="41" y="1" width="20" height="10"/>
+        <rect class="st1" x="61" y="1" width="10" height="10"/>
+        <rect class="st1" x="-9" y="1" width="10" height="10"/>
+      </g>
+      <g>
+        <rect class="st1" x="51" y="11" width="20" height="10"/>
+        <rect class="st1" x="31" y="11" width="20" height="10"/>
+        <rect class="st1" x="11" y="11" width="20" height="10"/>
+        <rect class="st1" x="-9" y="11" width="20" height="10"/>
+      </g>
+      <g>
+        <rect class="st1" x="1" y="21" width="20" height="10"/>
+        <rect class="st1" x="21" y="21" width="20" height="10"/>
+        <rect class="st1" x="41" y="21" width="20" height="10"/>
+        <rect class="st1" x="61" y="21" width="10" height="10"/>
+        <rect class="st1" x="-9" y="21" width="10" height="10"/>
+      </g>
+      <g>
+        <rect class="st1" x="51" y="31" width="20" height="10"/>
+        <rect class="st1" x="31" y="31" width="20" height="10"/>
+        <rect class="st1" x="11" y="31" width="20" height="10"/>
+        <rect class="st1" x="-9" y="31" width="20" height="10"/>
+      </g>
+      <g>
+        <rect class="st1" x="1" y="41" width="20" height="10"/>
+        <rect class="st1" x="21" y="41" width="20" height="10"/>
+        <rect class="st1" x="41" y="41" width="20" height="10"/>
+        <rect class="st1" x="61" y="41" width="10" height="10"/>
+        <rect class="st1" x="-9" y="41" width="10" height="10"/>
+      </g>
+      <g>
+        <rect class="st1" x="51" y="51" width="20" height="10"/>
+        <rect class="st1" x="31" y="51" width="20" height="10"/>
+        <rect class="st1" x="11" y="51" width="20" height="10"/>
+        <rect class="st1" x="-9" y="51" width="20" height="10"/>
+      </g>
+      <g>
+        <rect class="st1" x="1" y="61" width="20" height="10"/>
+        <rect class="st1" x="21" y="61" width="20" height="10"/>
+        <rect class="st1" x="41" y="61" width="20" height="10"/>
+        <rect class="st1" x="61" y="61" width="10" height="10"/>
+        <rect class="st1" x="-9" y="61" width="10" height="10"/>
+      </g>
+    </g>
+  </g>
+</svg>

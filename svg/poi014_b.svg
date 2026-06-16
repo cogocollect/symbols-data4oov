@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 62 62">
+  <!-- Generator: Adobe Illustrator 29.3.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 151)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #e4151c;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: red;
+      }
+    </style>
+  </defs>
+  <ellipse class="st0" cx="31" cy="27" rx="22" ry="22"/>
+  <ellipse class="st1" cx="31" cy="27" rx="17.1" ry="17.1" transform="translate(3.9 57.9) rotate(-89.9)"/>
+  <path d="M13,3h36.1l9.5,34.4-27.6,20.9L3.4,37.3,13,3M10.7,0L0,38.5l31,23.5,31-23.5L51.3,0H10.7Z"/>
+  <g>
+    <polygon points="37.1 9.9 31 17.2 24.9 9.9 37.1 9.9"/>
+    <polygon points="24.9 44.1 31 36.8 37.1 44.1 24.9 44.1"/>
+  </g>
+  <path class="st2" d="M31,5c-12.1,0-22,9.9-22,22s9.9,22,22,22,22-9.9,22-22S43.2,5,31,5ZM31,44.1c-9.4,0-17.1-7.7-17.1-17.1s7.6-17.1,17.1-17.1,17.1,7.7,17.1,17.1-7.7,17.1-17.1,17.1Z"/>
+</svg>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 62 62">
+  <!-- Generator: Adobe Illustrator 29.3.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 151)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #e4151c;
+      }
+
+      .st1, .st2 {
+        fill: none;
+      }
+
+      .st2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .st3 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="st1" x="21.4" y="19.5" width="24" height="12" transform="translate(-8.3 31.1) rotate(-45)"/>
+    </clipPath>
+  </defs>
+  <path d="M13,3h36.1l9.5,34.4-27.6,20.9L3.4,37.3,13,3M10.7,0L0,38.5l31,23.5,31-23.5L51.3,0H10.7Z"/>
+  <g>
+    <path class="st2" d="M15,31.2c-.4,1.9.2,4,1.6,5.4,2.3,2.3,6.1,2.3,8.5,0l1.9-1.9"/>
+    <g>
+      <path class="st0" d="M37.7,15.6l5.7,5.7-14.1,14.1-5.7-5.7,14.1-14.1M37.7,12.8l-17,17,8.5,8.5,17-17-8.5-8.5h0Z"/>
+      <g class="st3">
+        <g>
+          <polygon class="st0" points="30.6 19.9 42.6 24.8 44.7 22.7 32.7 17.8 30.6 19.9"/>
+          <polygon class="st0" points="27.1 23.4 39.1 28.4 41.2 26.2 29.2 21.3 27.1 23.4"/>
+          <polygon class="st0" points="23.5 26.9 35.5 31.9 37.7 29.8 25.6 24.8 23.5 26.9"/>
+          <polygon class="st0" points="20 30.5 32 35.4 34.1 33.3 22.1 28.4 20 30.5"/>
+          <polygon class="st0" points="34.1 16.3 46.1 21.3 48.3 19.2 36.2 14.2 34.1 16.3"/>
+        </g>
+      </g>
+    </g>
+    <line class="st2" x1="28.5" y1="37.6" x2="19.2" y2="46.8"/>
+    <g>
+      <line class="st2" x1="19.9" y1="31.9" x2="17" y2="31.5"/>
+      <line class="st2" x1="10.1" y1="30.4" x2="13" y2="30.9"/>
+      <line class="st2" x1="15.8" y1="26.2" x2="15.3" y2="29.2"/>
+    </g>
+    <polygon points="49.1 9.8 34.1 12.1 46.9 24.8 49.1 9.8"/>
+  </g>
+</svg>
